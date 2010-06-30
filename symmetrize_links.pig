@@ -1,5 +1,6 @@
-%default NETWORK 'seinfeld_network.tsv'
-%default SYM     'seinfeld_network_symmetric.tsv'
+%default NETWORK 'data/seinfeld_network.tsv'
+%default SYM     'data/seinfeld_network_symmetric.tsv'
+        
 links   = LOAD '$NETWORK' AS (node_a:chararray, node_b:chararray);
 ordered = FOREACH links -- order pairs alphabetically
           {

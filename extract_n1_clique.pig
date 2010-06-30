@@ -1,5 +1,5 @@
-%default NETWORK     'seinfeld_network.tsv'
-%default OUT_CLIQUE  'seinfeld_n1_clique'
+%default NETWORK     'data/seinfeld_network.tsv'
+%default OUT_CLIQUE  'data/seinfeld_n1_clique'
 %default N0_SEED     'kramer'
 
 links = LOAD '$NETWORK' AS (node_a:chararray, node_b:chararray);
