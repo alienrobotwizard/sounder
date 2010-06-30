@@ -1,5 +1,5 @@
-%default PRGRPH 'data/pagerank_graph_000'
-%default OUT    'data/pagerank_graph_001'
+%default PRGRPH '../data/pagerank_graph_000'
+%default OUT    '../data/pagerank_graph_001'
 %default DAMP   '0.85' -- naively accepting that given in the wikipedia article on pagerank...
 --
 -- Demonstrates complex load function...

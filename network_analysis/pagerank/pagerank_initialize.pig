@@ -1,8 +1,8 @@
 --
 -- Create initial graph on which to iterate the pagerank algorithm.
 --
-%default ADJLIST  'data/seinfeld_network.tsv'
-%default INITGRPH 'data/pagerank_graph_000'
+%default ADJLIST  '../data/seinfeld_network.tsv'
+%default INITGRPH '../data/pagerank_graph_000'
         
 network = LOAD '$ADJLIST' AS (user_a:chararray, user_b:chararray);
 

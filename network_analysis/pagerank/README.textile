@@ -1,0 +1,26 @@
+h1. Pagerank
+
+The scripts here can be used to run the pagerank algorithm on any general set of adjaceny pairs
+with little to no modifications.
+
+h2. Step one
+
+Initialize the graph for iteration from an input set of adjacency pairs.
+
+<pre><code>
+pig -param ADJLIST=/path/to/adjacency_list -param INITGRPH=/path/to/output_graph pagerank_initialize.pig
+</code></pre>
+
+h2. Step two
+
+Run the algorithm for some number of iterations. For now no convergence checking is done.
+You'll need to pass in the number of iterations as well as the directory where you dumped
+the initial graph.
+
+<pre><code>
+./iterate_pagerank num_iterations /path/to/output_of_pagerank_initialize.pig
+</code></pre>
+
+h2. Step three
+
+Be happy.
