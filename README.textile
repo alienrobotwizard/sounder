@@ -1,0 +1,17 @@
+h1. Sounder
+
+Sounder is a grouping of examples for Apache "Pig":http://hadoop.apache.org/pig, the query language for Hadoop. 
+
+Here you'll find examples for expressing all those simple (and some not so simple) things in Pig Latin.
+
+Some examples include:
+* Normalizing a numeric column by its maximum
+* Extracting symmetric links in a network graph
+* Calculating the degree distribution for a network graph
+* Extracting a neighborhood for a given node in a network graph
+
+More will be added soon. Contact jacob@infochimps.org for questions or to contribute!
+
+h2. Why is it called Sounder?
+
+Evidently, a grouping of pigs is called a sounder so...
