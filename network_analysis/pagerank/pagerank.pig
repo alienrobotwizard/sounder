@@ -14,7 +14,8 @@ filtered     = FILTER give_shares BY (user_a IS NOT NULL AND share IS NOT NULL);
 list_shares  = GROUP filtered BY user_a;
 sum_shares   = FOREACH list_shares
                {
-                   damped_rank = (SUM(filtered.share)*$DAMP + 1.0 - $DAMP);
+                   raw_rank    = SUM(filtered.share);
+                   damped_rank = (raw_rank == 0.0 ? 0.0 : raw_rank*$DAMP + 1.0 - $DAMP);
                    GENERATE
                        group       AS user_a,
                        damped_rank AS damped_rank
