@@ -4,17 +4,18 @@
 %default ADJLIST  '../data/seinfeld_network.tsv'
 %default INITGRPH '../data/pagerank_graph_000'
         
-network = LOAD '$ADJLIST' AS (user_a:chararray, user_b:chararray);
+network = LOAD '$ADJLIST' AS (rsrc:chararray, user_a:chararray, user_b:chararray);
 
-list_links  = GROUP network BY user_a;
+cut_links   = FOREACH network GENERATE user_a, user_b;
+list_links  = GROUP cut_links BY user_a;
 count_links = FOREACH list_links
               {
-                  num_out_links = COUNT(network);
+                  num_out_links = COUNT(cut_links);
                   GENERATE
                       group           AS user_a,
                       1.0             AS rank,
                       num_out_links   AS num_out_links,
-                      network.user_b  AS out_links
+                      cut_links.user_b  AS out_links
                   ;
               };
 
