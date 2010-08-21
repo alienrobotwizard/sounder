@@ -14,11 +14,11 @@ pig -param ADJLIST=/path/to/adjacency_list -param INITGRPH=/path/to/output_graph
 h2. Step two
 
 Run the algorithm for some number of iterations. For now no convergence checking is done.
-You'll need to pass in the number of iterations as well as the directory where you dumped
+You'll need to pass in the number of iterations, the start iteration, and the directory where you dumped
 the initial graph.
 
 <pre><code>
-./iterate_pagerank num_iterations /path/to/output_of_pagerank_initialize.pig
+./iterate_pagerank /path/to/output_of_pagerank_initialize num_iters start_iter
 </code></pre>
 
 h2. Step three
