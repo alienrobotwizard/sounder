@@ -8,6 +8,9 @@
 -- Vargas    1.0    4    {(Kevin),(Gene),(Feldman),(ElaineBenes)}
 --
 
+PIG_OPTS="-Dio.sort.record.percent=0.30 -Dio.sort.mb=280 -Dio.sort.factor=28 -Dmapred.child.java.opts=-Xmx1500m" pig -param PRGRPH=/data/sn/tw/rawd/pagerank/a_follows_b/pig/pagerank_graph_000 -param OUT=/data/sn/tw/rawd/pagerank/a_follows_b/pig/pagerank_graph_001 pagerank.pig
+
+
 network      = LOAD '$PRGRPH' AS (user_a:chararray, rank:float, num_out_links:int, out_links:bag { link:tuple (user_b:chararray) });
 give_shares  = FOREACH network GENERATE FLATTEN(out_links) AS user_a, (float)rank / (float)num_out_links AS share:float;
 filtered     = FILTER give_shares BY (user_a IS NOT NULL AND share IS NOT NULL); --this should not be necessary...

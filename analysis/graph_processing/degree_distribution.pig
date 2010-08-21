@@ -1,10 +1,10 @@
 --
--- Given an adjacency pair representation of a network
+-- Given an adjacency pair representation of a directed graph
 -- calculate its out degree, in degree, and degree. Order
 -- the result by degree.
 --
-%default PAIRS       'data/seinfeld_network.tsv'
-%default GRAPHCOUNTS 'data/seinfeld_network_deg_dist.tsv'
+%default PAIRS   'data/seinfeld_network.tsv'
+%default DEGDIST 'data/seinfeld_network_deg_dist.tsv'
         
 pairs         = LOAD '$PAIRS' AS (node_a:chararray, node_b:chararray);
 out_list      = GROUP pairs BY node_a;
@@ -26,5 +26,5 @@ node_counts   = FOREACH joined
 
 ordered = ORDER node_counts BY degree DESC;
 
-rmf $GRAPHCOUNTS;
-STORE node_counts INTO '$GRAPHCOUNTS';
+rmf $DEGDIST;
+STORE node_counts INTO '$DEGDIST';
