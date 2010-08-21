@@ -8,6 +8,7 @@ Some examples include:
 * Normalizing a numeric column by its maximum
 * Extracting symmetric links in a network graph
 * Iteratively calculating pagerank (no java here folks...)
+* Other graph processing algorithms (degree distribution, truss extraction, etc)
 
 More will be added soon. Contact jacob@infochimps.org for questions or to contribute!
 

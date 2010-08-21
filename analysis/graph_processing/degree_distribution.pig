@@ -1,30 +1,26 @@
 --
 -- Given an adjacency pair representation of a directed graph
--- calculate its out degree, in degree, and degree. Order
--- the result by degree.
+-- calculate its out degree, in degree, and degree.
 --
 %default PAIRS   'data/seinfeld_network.tsv'
-%default DEGDIST 'data/seinfeld_network_deg_dist.tsv'
-        
-pairs         = LOAD '$PAIRS' AS (node_a:chararray, node_b:chararray);
-out_list      = GROUP pairs BY node_a;
-out_counts    = FOREACH out_list GENERATE group AS node, COUNT(pairs) AS num_out_links;
-in_list       = GROUP pairs BY node_b;
-in_counts     = FOREACH in_list GENERATE group AS node, COUNT(pairs) AS num_in_links;
-joined        = JOIN out_counts BY node FULL OUTER, in_counts BY node;
-node_counts   = FOREACH joined
-                {
-                    node_name = (out_counts::node IS NOT NULL?out_counts::node:in_counts::node);
-                    degree    = out_counts::num_out_links + in_counts::num_in_links;
-                    GENERATE
-                        node_name                 AS node,
-                        out_counts::num_out_links AS num_out_links,
-                        in_counts::num_in_links   AS num_in_links,
-                        degree                    AS degree
-                    ;
-                };
+%default DEGDIST 'data/seinfeld_network_deg_dist'
 
-ordered = ORDER node_counts BY degree DESC;
+adj_pairs  = LOAD '$PAIRS' AS (node_a:chararray, node_b:chararray);        
+out_node   = FOREACH adj_pairs GENERATE node_a AS node;
+in_node    = FOREACH adj_pairs GENERATE node_b AS node;
+grouped    = COGROUP out_node BY node OUTER, in_node BY node;
+degrees    = FOREACH grouped
+             {
+               out_degree = COUNT(out_node);
+               in_degree  = COUNT(in_node);
+               degree     = out_degree + in_degree;
+               GENERATE
+                 group      AS node,
+                 out_degree AS out_degree,
+                 in_degree  AS in_degree,
+                 degree     AS degree
+               ;
+             };
 
-rmf $DEGDIST;
-STORE node_counts INTO '$DEGDIST';
+rmf $DEGDIST
+STORE degrees INTO '$DEGDIST';
