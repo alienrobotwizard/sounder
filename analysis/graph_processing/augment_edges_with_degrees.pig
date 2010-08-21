@@ -14,4 +14,4 @@ v_deg     = COGROUP v1_deg BY (v1, v2), v2_deg BY (v1, v2);
 edges_deg = FOREACH v_deg GENERATE FLATTEN(group) AS (v1, v2), FLATTEN(v1_deg.deg_v1) AS deg_v1, FLATTEN(v2_deg.deg_v2) AS deg_v2;
 
 rmf $AUG
-STORE edges INTO '$AUG';
+STORE edges_deg INTO '$AUG';
