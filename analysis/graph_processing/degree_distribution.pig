@@ -5,17 +5,16 @@
 %default PAIRS   'data/seinfeld_network.tsv'
 %default DEGDIST 'data/seinfeld_network_deg_dist'
 
-adj_pairs  = LOAD '$PAIRS' AS (node_a:chararray, node_b:chararray);        
-out_node   = FOREACH adj_pairs GENERATE node_a AS node;
-in_node    = FOREACH adj_pairs GENERATE node_b AS node;
-grouped    = COGROUP out_node BY node OUTER, in_node BY node;
-degrees    = FOREACH grouped
-             {
-               out_degree = COUNT(out_node);
-               in_degree  = COUNT(in_node);
+pairs   = LOAD '$PAIRS' AS (v1:chararray, v2:chararray);        
+pairs_o = FOREACH pairs GENERATE v1 AS v;
+pairs_i = FOREACH pairs GENERATE v2 AS v;
+pairs_g = COGROUP pairs_o BY v OUTER, pairs_i BY v;
+degrees = FOREACH pairs_g {
+               out_degree = COUNT(pairs_o);
+               in_degree  = COUNT(pairs_i);
                degree     = out_degree + in_degree;
                GENERATE
-                 group      AS node,
+                 group      AS vertex,
                  out_degree AS out_degree,
                  in_degree  AS in_degree,
                  degree     AS degree

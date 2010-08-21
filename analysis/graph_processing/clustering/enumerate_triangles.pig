@@ -3,8 +3,8 @@
 --
 -- See: http://www.computer.org/portal/web/csdl/doi/10.1109/MCSE.2009.120 for full discussion
 --
-%default AUG   'data/augmented_graph'
-%default TRI   'data/enumerated_triangles'
+%default AUG   '../data/augmented_graph'
+%default TRI   '../data/enumerated_triangles'
         
 edges   = LOAD '$AUG' AS (v1:chararray, v2:chararray, deg_v1:int, deg_v2:int);
 edges_f = FILTER edges BY (deg_v1 > 1) AND (deg_v2 > 1); -- a vertex with deg = 1 can't possibly form triangles

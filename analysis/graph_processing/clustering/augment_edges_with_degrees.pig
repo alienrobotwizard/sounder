@@ -1,5 +1,5 @@
-%default GRAPH 'data/graph.tsv'
-%default AUG   'data/augmented_graph'
+%default GRAPH '../data/graph.tsv'
+%default AUG   '../data/augmented_graph'
 
 --
 -- Attach the degree of each vertex in a list of edges to

@@ -1,24 +1,19 @@
 --
--- Given adjacency pairs, output only the symmetric ones 
+-- Extract symmetric links from a directed graph
 --
 %default PAIRS 'data/seinfeld_network.tsv'
 %default SYM   'data/seinfeld_network_symmetric.tsv'
         
-links   = LOAD '$PAIRS' AS (node_a:chararray, node_b:chararray);
-ordered = FOREACH links -- order pairs alphabetically
-          {
-              first  = (node_a <= node_b ? node_a : node_b);
-              second = (node_a <= node_b ? node_b : node_a);
-              GENERATE first AS node_a, second AS node_b;
+links   = LOAD '$PAIRS' AS (v1:chararray, v2:chararray);
+links_o = FOREACH links { -- order pairs lexigraphically
+            first  = (v1 < v2 ? v1 : v2);
+            second = (v1 < v2 ? v2 : v1);
+            GENERATE first AS v1, second AS v2;
           };
-
-grouped   = GROUP ordered BY (node_a, node_b);
-counts    = FOREACH grouped GENERATE
-                FLATTEN(group) AS (node_a, node_b),
-                COUNT(ordered) AS num_pairs
-            ;
-filtered  = FILTER counts BY num_pairs >= 2;
-symmetric = FOREACH filtered GENERATE node_a, node_b;
+links_g = GROUP links_o BY (v1, v2);
+links_c = FOREACH links_g GENERATE FLATTEN(group) AS (v1, v2), COUNT(links_o) AS num;
+links_f = FILTER links_c BY num >= 2; -- if link shows up twice it's symmetric
+links_s = FOREACH links_f GENERATE v1, v2;
 
 rmf $SYM;
-STORE symmetric_links INTO '$SYM';
+STORE links_s INTO '$SYM';
