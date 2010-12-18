@@ -13,16 +13,16 @@ work_dir  = ARGV[2]
 #
 eps_min         = 0.001
 eps_increment   = 0.025
-sample_size     = 5000
+sample_size     = 1000
 sample_fraction = 0.001
 
-iter = 0
-eps  = eps_min
-num_iters.to_i.times do
-  next_file = "corr_iter_" + iter.to_s
-  next_dir  = File.join(work_dir, next_file)
-  system %Q{ pig -param ATTRACTOR=#{attractor} -param OUT=#{next_dir} -param EPS=#{eps} -param SAMPLE_SIZE=#{sample_size} -param SAMPLE_FRAC=#{sample_fraction} correlation_integral.pig }
-  iter += 1
+#
+# Sample the same attractor num_iters times
+#
+eps = eps_min
+num_iters.to_i.times do |i|
+  next_dir  = File.join(work_dir, "corr_iter_#{i}")
+  system "pig -p ATTRACTOR=#{attractor} -p OUT=#{next_dir} -p EPS=#{eps} -p SAMPLE_SIZE=#{sample_size} -p SAMPLE_FRAC=#{sample_fraction} correlation_integral.pig"
   eps += eps_increment
 end
 

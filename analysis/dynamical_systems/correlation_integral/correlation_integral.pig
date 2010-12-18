@@ -8,7 +8,6 @@
 --
 -- Here we take a sample n < N to calculate it for a given e (EPS)
 --
-REGISTER /usr/local/share/pig/contrib/piggybank/java/piggybank.jar;
 %default ATTRACTOR    'data/points.tsv'
 %default SAMPLE_FRAC  '0.1'  -- higher precentage = better accuracy but slower and more intensive        
 %default SAMPLE_SIZE  '100'  -- should be less than or equal to what is pulled out from the SAMPLE command
@@ -21,14 +20,13 @@ second    = SAMPLE attractor $SAMPLE_FRAC;
 sample_1  = LIMIT first  $SAMPLE_SIZE;
 sample_2  = LIMIT second $SAMPLE_SIZE;
 crossed   = CROSS sample_1, sample_2; -- careful
-dists     = FOREACH crossed
-            {
-                sq_dist = (sample_1::x1 - sample_2::x1)*(sample_1::x1 - sample_2::x1) + (sample_1::x2 - sample_2::x2)*(sample_1::x2 - sample_2::x2);
-                GENERATE org.apache.pig.piggybank.evaluation.math.SQRT(sq_dist) AS dist;
+dists     = FOREACH crossed {
+              sq_dist = (sample_1::x1 - sample_2::x1)*(sample_1::x1 - sample_2::x1) + (sample_1::x2 - sample_2::x2)*(sample_1::x2 - sample_2::x2);
+              GENERATE sq_dist AS sq_dist;
             };
-to_sum    = FILTER dists BY dist < $EPS;
-grouped   = GROUP to_sum ALL;
-corr      = FOREACH grouped GENERATE (float)SIZE(to_sum)/((float)$SAMPLE_SIZE*(float)$SAMPLE_SIZE) AS corr_val, $EPS AS eps;;
+to_sum    = FILTER dists BY sq_dist < (double)$EPS*(double)$EPS; -- only keep points inside circle of radius eps
+only_ones = FOREACH to_sum GENERATE 1;
+grouped   = GROUP only_ones ALL;
+corr      = FOREACH grouped GENERATE (float)COUNT(only_ones)/((float)$SAMPLE_SIZE*(float)$SAMPLE_SIZE) AS corr_val, $EPS AS eps;;
 
-rmf $OUT;
 STORE corr INTO '$OUT';
