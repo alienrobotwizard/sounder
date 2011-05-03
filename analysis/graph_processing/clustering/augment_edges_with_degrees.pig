@@ -6,7 +6,7 @@
 -- the edge itself as metadata with only 2 MR jobs.
 --
 edges     = LOAD '$GRAPH' AS (v1:chararray, v2:chararray);
-edges_dup = FOREACH edges GENERATE v1, v2; --FIXME: when can we cogroup an alias with itself?
+edges_dup = FOREACH edges GENERATE v1, v2; --FIXME: when can we cogroup a relation with itself?
 edges_cog = COGROUP edges BY v1 OUTER, edges_dup BY v2;
 v1_deg    = FOREACH edges_cog GENERATE FLATTEN(edges)     AS (v1, v2), COUNT(edges) + COUNT(edges_dup) AS deg_v1;
 v2_deg    = FOREACH edges_cog GENERATE FLATTEN(edges_dup) AS (v1, v2), COUNT(edges) + COUNT(edges_dup) AS deg_v2;
