@@ -14,7 +14,6 @@ edges_dup = LOAD '$GRAPH' AS (v1:chararray, v2:chararray);
 -- Augment the edges with the sizes of their outgoing adjacency lists. Note that
 -- if a self join was possible we would only have to do this once.
 --
-
 grouped_edges = GROUP edges BY v1;
 aug_edges     = FOREACH grouped_edges GENERATE FLATTEN(edges) AS (v1, v2), COUNT(edges) AS v1_out;
 
