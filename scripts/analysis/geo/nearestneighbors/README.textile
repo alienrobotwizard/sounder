@@ -1,0 +1,57 @@
+h1. Nearest Neighbors
+
+Uses a couple pig udfs and a jruby run script to find the nearest
+neighbors of points in geonames.
+
+h2. And we're off like a herd of turtles...
+
+h3. Get the data
+
+Download the data from geonames. It's reasonably large so give it a few
+minutes.
+
+<pre><code>
+$: wget http://download.geonames.org/export/dump/allCountries.zip
+</code></pre>
+
+and unzip it
+
+<pre><code>
+$: unzip allCountries.zip
+</code></pre>
+
+h3. Build the udfs
+
+<pre><code>
+$: cd sounder/udf
+$: mvn package
+</code></pre>
+
+h3. To Hdfs with it
+
+Put the data on the hdfs so we can process it
+
+<pre><code>
+$: hadoop fs -put allCountries.txt .
+</code></pre>
+
+h3. Run the algorithm
+
+Choose a K (the number of neighbors to find for each point) and run it!
+
+<pre><code>
+$: cd sounder/scripts/analysis/geo/nearestneighbors
+$: ./nearest_neigbhors.rb allCountries.txt <K>
+</code></pre>
+
+
+h2. Caveats
+
+* This is meant to be an example only. Don't get cranky if not
+  everything is smooth and configurable.
+* You'll have to have jruby installed
+* nearest_neighbors.rb assumes you have cloudera's
+  version of pig 0.8.1 installed in the location
+  the debian installer would put it "/usr/lib/pig/pig-0.8.1-cdh3u1-core.jar"
+
+  You might consider changing it...
