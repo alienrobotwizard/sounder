@@ -4,16 +4,13 @@
 %default PAIRS 'data/seinfeld_network.tsv'
 %default SYM   'data/seinfeld_network_symmetric.tsv'
         
-links   = LOAD '$PAIRS' AS (v1:chararray, v2:chararray);
-links_o = FOREACH links { -- order pairs lexigraphically
-            first  = (v1 < v2 ? v1 : v2);
-            second = (v1 < v2 ? v2 : v1);
-            GENERATE first AS v1, second AS v2;
-          };
-links_g = GROUP links_o BY (v1, v2);
-links_c = FOREACH links_g GENERATE FLATTEN(group) AS (v1, v2), COUNT(links_o) AS num;
-links_f = FILTER links_c BY num >= 2; -- if link shows up twice it's symmetric
-links_s = FOREACH links_f GENERATE v1, v2;
+links         = load '$PAIRS' AS (v1:chararray, v2:chararray);
+links_ordered = foreach links generate (v1 < v2 ? v1 : v2) as v1, (v1 < v2 ? v2 : v1) as v2;
+
+counted = foreach (group links_ordered by (v1, v2)) generate
+                FLATTEN(group) as (v1, v2), COUNT(links_ordered) as num;
+
+symmetrized = foreach (filter counted by num >= 2) generate v1, v2;
 
 rmf $SYM;
-STORE links_s INTO '$SYM';
+store symmetrized into '$SYM';
