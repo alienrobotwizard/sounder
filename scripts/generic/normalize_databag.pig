@@ -4,8 +4,8 @@
 --
 %default DATABAG 'data/timeseries.tsv'
         
-data       = LOAD '$DATABAG' AS (month:chararray, count:int);
-accumulate = GROUP data ALL;
-calc_max   = FOREACH accumulate GENERATE FLATTEN(data), MAX(data.count) AS max_count;
-normalize  = FOREACH calc_max GENERATE data::month AS month, data::count AS count, (float)data::count / (float)max_count AS normed_count;
-DUMP normalize;
+data       = load '$DATABAG' as (month:chararray, count:int);
+calc_max   = foreach (group data all) generate
+               FLATTEN(data) as (month, count), MAX(data.count) as max_count;
+normalized = foreach calc_max generate month, count, (float)count / (float)max_count as normalized_count;
+dump normalized;

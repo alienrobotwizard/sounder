@@ -5,10 +5,10 @@
 %default LOG 'data/sitelog.tsv'
 %default OUT 'data/visits_hist.tsv'
         
-log_data   = LOAD '$LOG' AS (ip_address:chararray, user:chararray, timestamp:long);
-cut_data   = FOREACH log_data GENERATE user;
-accumulate = GROUP cut_data BY user;
-histogram  = FOREACH accumulate GENERATE group AS user, COUNT(cut_data) AS num_visits;
+log_data   = load '$LOG' as (ip_address:chararray, user:chararray, timestamp:long);
+cut_data   = foreach log_data generate user;
+histogram  = foreach (group cut_data by user) generate
+               group as user, COUNT(cut_data) as num_visits;
 
 rmf $OUT;
-STORE histogram INTO '$OUT';
+store histogram into '$OUT';
