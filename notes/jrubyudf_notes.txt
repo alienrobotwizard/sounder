@@ -1,0 +1,27 @@
+* jruby.jar _must_ exist in the launching class path. Placing it in $PIG_HOME/lib is sufficient to do this.
+  How does this change when we want to run with oozie?
+
+* Out of the box external libraries do not run, need something to set up class path properly.
+  - Tryed creating a jar file and registering it. However, for some reason registering the jar
+    isn't placing it into the launching classpath so it isn't picked up. If the jar is placed
+    into $PIG_HOME/lib then it picks up the top level stuff (eg. require 'foobar') but not nested
+    stuff that 'foobar.rb' might require. Rubygems should be able to handle this stuff by setting
+    up the load path properly.
+  - I think what needs to happen is two-fold. One, the $LOAD_PATH needs to be setup to contain
+    jruby/lib/ruby/site_ruby/1.8, jruby/lib/ruby/site_ruby/shared, and the jruby/lib/ruby/1.8
+    directories. Perhaps all as a jar...? Then rubygems needs to be packaged as a jar as well
+    such that it can examine the load path and add things as they are 'required'. Need to make
+    sure that they're in the $LOAD_PATH of the frontend _and_ backend
+  - Putting each of the above paths into its own jar works for the frontend and backend. Should
+    just make those jars and put into the oozie class path (oozie/share/lib). On local (home) install
+    they just got stuck into $PIG_HOME/lib:
+
+      sudo jar -cf ruby18.jar -C /usr/local/share/jruby/lib/ruby/1.8 .
+      sudo jar -cf site_ruby18.jar -C /usr/local/share/jruby/lib/ruby/site_ruby/1.8 .
+      sudo jar -cf site_rubyShared.jar -C /usr/local/share/jruby/lib/ruby/site_ruby/shared .
+
+  - Jar the dependency jar and place in $PIG_HOME/lib too:
+
+      sudo jar -cf json.jar -C /usr/local/share/jruby/lib/ruby/gems/1.8/gems/json-1.7.3-java/lib .
+
+  - To run in mapreduce mode all the ruby load path jars and dependency jars need to be registered
