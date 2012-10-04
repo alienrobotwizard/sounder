@@ -1,0 +1,1015 @@
+4046274	Edna	Edna		28.97859	-96.64609	P	PPLA2	US		TX	239			5499	20	24	America/Chicago	2011-05-14
+4046332	Henderson	Henderson	Khenderson,Хендерсон	32.15322	-94.79938	P	PPLA2	US		TX	401			13712	156	160	America/Chicago	2011-05-14
+4046430	Natalia	Natalia		29.18968	-98.86253	P	PPL	US		TX	325			1431	209	211	America/Chicago	2011-05-14
+4050880	Buda	Buda		30.08521	-97.84028	P	PPL	US		TX	209			7295	214	220	America/Chicago	2011-05-14
+4669581	Asherton	Asherton		28.44193	-99.76033	P	PPL	US		TX	127			1084	165	165	America/Chicago	2011-05-14
+4669635	Abilene	Abilene	ABI,Abilene,Abilin,a bi lin,Абилин,阿比林	32.44874	-99.73314	P	PPLA2	US		TX	441			117063	524	525	America/Chicago	2011-05-14
+4669672	Abram	Abram		26.1998	-98.41113	P	PPL	US		TX	215			2067	36	39	America/Chicago	2011-05-14
+4669828	Addison	Addison		32.96179	-96.82917	P	PPL	US		TX	113			13056	194	196	America/Chicago	2011-05-14
+4670029	Alamo Heights	Alamo Heights		29.48495	-98.46585	P	PPL	US		TX	029			7031	244	248	America/Chicago	2011-05-14
+4670074	Alamo	Alamo		26.18369	-98.12306	P	PPL	US		TX	215			18353	30	35	America/Chicago	2011-05-14
+4670094	Albany	Albany	Olbani,Олбани	32.72345	-99.2973	P	PPLA2	US		TX	417			2034	431	434	America/Chicago	2011-05-14
+4670146	Aldine	Aldine		29.93244	-95.38021	P	PPL	US		TX	201			15869	25	27	America/Chicago	2011-05-14
+4670165	Aledo	Aledo		32.69596	-97.60225	P	PPL	US		TX	367			2716	269	273	America/Chicago	2011-05-14
+4670234	Alice	Alice	ALI	27.75225	-98.06972	P	PPLA2	US		TX	249			19104	61	70	America/Chicago	2011-05-14
+4670300	Allen	Allen	Allen,Аллен	33.10317	-96.67055	P	PPL	US		TX	085			84246	201	205	America/Chicago	2011-05-14
+4670527	Alto	Alto		31.65045	-95.07272	P	PPL	US		TX	073			1225	133	136	America/Chicago	2011-05-14
+4670555	Alton	Alton		26.28729	-98.31335	P	PPL	US		TX	215			12341	49	54	America/Chicago	2011-05-14
+4670562	Alton North (historical)	Alton North (historical)		26.29535	-98.30446	P	PPL	US		TX	215			5541	47	50	America/Chicago	2012-03-02
+4670582	Alvarado	Alvarado		32.40653	-97.21168	P	PPL	US		TX	251			3785	233	237	America/Chicago	2011-05-14
+4670592	Alvin	Alvin	Ehlvin,Элвин	29.42385	-95.2441	P	PPL	US		TX	039			24236	13	18	America/Chicago	2011-05-14
+4670605	Alvord	Alvord		33.35845	-97.69475	P	PPL	US		TX	497			1334	268	272	America/Chicago	2011-05-14
+4670666	Ames	Ames		31.52099	-97.77947	P	PPL	US		TX	099			1171	281	287	America/Chicago	2006-01-17
+4670667	Ames	Ames		30.05383	-94.74353	P	PPL	US		TX	291			1003	22	27	America/Chicago	2011-05-14
+4670707	Anahuac	Anahuac		29.773	-94.6827	P	PPLA2	US		TX	071			2243	9	8	America/Chicago	2011-05-14
+4670732	Anderson	Anderson	Anderson,Андерсон	30.48715	-95.9869	P	PPLA2	US		TX	185			222	105	110	America/Chicago	2011-05-14
+4670783	Anderson Mill	Anderson Mill		30.45492	-97.80584	P	PPL	US		TX	491			8744	292	296	America/Chicago	2006-01-17
+4670866	Angleton	Angleton		29.16941	-95.43188	P	PPLA2	US		TX	039			18862	9	14	America/Chicago	2011-05-14
+4670871	Anna	Anna		33.349	-96.5486	P	PPL	US		TX	085			8249	217	221	America/Chicago	2011-05-14
+4670886	Annetta	Annetta		32.7093	-97.67614	P	PPL	US		TX	367			1288	265	274	America/Chicago	2011-05-14
+4670901	Anson	Anson		32.7565	-99.89621	P	PPLA2	US		TX	253			2430	527	532	America/Chicago	2011-05-14
+4671141	Aransas Pass	Aransas Pass		27.90947	-97.14999	P	PPL	US		TX	409			8204	5	6	America/Chicago	2011-05-14
+4671174	Archer City	Archer City		33.59566	-98.62561	P	PPLA2	US		TX	009			1834	324	331	America/Chicago	2011-05-14
+4671193	Arcola	Arcola		29.49607	-95.46578	P	PPL	US		TX	157			1642	20	22	America/Chicago	2011-05-14
+4671212	Argyle	Argyle		33.12123	-97.18335	P	PPL	US		TX	121			3282	213	221	America/Chicago	2011-05-14
+4671240	Arlington	Arlington	Arlingt"n,Arlington,arinton,Арлингтън,アーリントン	32.73569	-97.10807	P	PPL	US		TX	439			365438	184	190	America/Chicago	2011-05-14
+4671461	Asherton	Asherton		28.4436	-99.75894	P	PPL	US		TX	127			1330	163	167	America/Chicago	2006-01-17
+4671524	Atascocita	Atascocita		29.99883	-95.1766	P	PPL	US		TX	201			65844	22	25	America/Chicago	2011-05-14
+4671545	Athens	Athens		32.20487	-95.85552	P	PPLA2	US		TX	213			12710	149	152	America/Chicago	2011-05-14
+4671576	Atlanta	Atlanta	Atlanta,Атланта	33.11374	-94.16435	P	PPL	US		TX	067			5675	79	83	America/Chicago	2011-05-14
+4671620	Aubrey	Aubrey		33.30428	-96.98612	P	PPL	US		TX	121			2595	210	216	America/Chicago	2011-05-14
+4671650	Aurora	Aurora	Avrora,Аврора	33.06068	-97.50336	P	PPL	US		TX	497			1220	249	254	America/Chicago	2011-05-14
+4671654	Austin	Austin	AUS,Austin,Austino,Austinopolis,Aŭstino,Gorad Oscin,Ostin,Ostina,Ostinas,ao si ting,astin,astyn, tgzas,awstn, tksas,oseutin,ostina,osutin,xxstin,Ώστιν,Горад Осцін,Остин,Остін,Օսթին,אוסטין,آستین، تگزاس,آسٹن,آسٹن، ٹیکساس,أوستن، تكساس,ऑस्टिन,ஆஸ்டின்,ഓസ്റ്റിൻ,ออสติน,ოსტინი,オースティン,奧斯汀,오스틴	30.26715	-97.74306	P	PPLA	US		TX	453			790390	149	165	America/Chicago	2011-05-14
+4671800	Azle	Azle		32.89513	-97.54586	P	PPL	US		TX	439			10947	217	219	America/Chicago	2011-05-14
+4671895	Bacliff	Bacliff		29.5069	-94.99243	P	PPL	US		TX	167			8619	5	8	America/Chicago	2011-05-14
+4671988	Baird	Baird		32.39402	-99.39424	P	PPLA2	US		TX	059			1496	525	524	America/Chicago	2011-05-14
+4672059	Balch Springs	Balch Springs		32.72874	-96.62277	P	PPL	US		TX	113			23728	152	159	America/Chicago	2011-05-14
+4672081	Balcones Heights	Balcones Heights		29.48801	-98.55169	P	PPL	US		TX	029			2941	253	258	America/Chicago	2011-05-14
+4672145	Ballinger	Ballinger		31.73821	-99.94731	P	PPLA2	US		TX	399			3767	496	499	America/Chicago	2011-05-14
+4672171	Bandera	Bandera		29.72661	-99.07365	P	PPLA2	US		TX	019			857	379	382	America/Chicago	2011-05-14
+4672192	Bangs	Bangs		31.7171	-99.13255	P	PPL	US		TX	049			1603	490	495	America/Chicago	2011-05-14
+4672422	Barrett	Barrett		29.87995	-95.06298	P	PPL	US		TX	201			3199	13	18	America/Chicago	2011-05-14
+4672479	Bartlett	Bartlett	Bartlett,Бартлетт	30.79491	-97.42556	P	PPL	US		TX	491			1623	182	185	America/Chicago	2011-05-14
+4672494	Barton Creek	Barton Creek		30.28521	-97.86917	P	PPL	US		TX	453			3077	250	252	America/Chicago	2011-05-14
+4672514	Bartonville	Bartonville		33.07318	-97.13168	P	PPL	US		TX	121			1469	195	202	America/Chicago	2011-05-14
+4672576	Bastrop	Bastrop		30.11049	-97.31527	P	PPLA2	US		TX	021			7218	112	115	America/Chicago	2011-05-14
+4672600	Batesville	Batesville		28.95108	-99.61783	P	PPL	US		TX	507			1068	215	219	America/Chicago	2011-05-14
+4672731	Baytown	Baytown	Baytown,HPY	29.7355	-94.97743	P	PPL	US		TX	201			71802	8	9	America/Chicago	2011-05-14
+4672757	Beach City	Beach City		29.66217	-94.88992	P	PPL	US		TX	071			2198	7	12	America/Chicago	2011-05-14
+4672760	Bayou Vista	Bayou Vista		29.32635	-94.93853	P	PPL	US		TX	167			1537	2	4	America/Chicago	2011-05-14
+4672989	Beaumont	Beaumont	BPT,Beaumont	30.08605	-94.10185	P	PPLA2	US		TX	245			118296	5	12	America/Chicago	2011-05-14
+4673094	Bedford	Bedford	Bedford,Бедфорд	32.84402	-97.14307	P	PPL	US		TX	439			46979	182	187	America/Chicago	2011-05-14
+4673132	Bee Cave	Bee Cave		30.30854	-97.94501	P	PPL	US		TX	453			3925	280	284	America/Chicago	2011-05-14
+4673258	Beeville	Beeville	NIR	28.40083	-97.74833	P	PPLA2	US		TX	025			12863	64	66	America/Chicago	2011-05-14
+4673353	Bellaire	Bellaire		29.70579	-95.45883	P	PPL	US		TX	201			16855	16	22	America/Chicago	2011-05-14
+4673389	Bellmead	Bellmead		31.59405	-97.10889	P	PPL	US		TX	309			9901	133	137	America/Chicago	2011-05-14
+4673390	Bells	Bells		33.61038	-96.41082	P	PPL	US		TX	181			1392	210	217	America/Chicago	2011-05-14
+4673398	Bellville	Bellville		29.95023	-96.25719	P	PPLA2	US		TX	015			4097	89	92	America/Chicago	2011-05-14
+4673425	Belton	Belton	Belton,Белтон	31.05601	-97.46445	P	PPLA2	US		TX	027			18216	155	165	America/Chicago	2011-05-14
+4673475	Benavides	Benavides		27.59892	-98.40807	P	PPL	US		TX	131			1362	114	120	America/Chicago	2011-05-14
+4673482	Benbrook	Benbrook		32.67319	-97.46058	P	PPL	US		TX	439			21234	210	213	America/Chicago	2011-05-14
+4673510	Benjamin	Benjamin		33.58398	-99.79231	P	PPLA2	US		TX	275			258	450	452	America/Chicago	2011-05-14
+4673677	Bertram	Bertram		30.7438	-98.05558	P	PPL	US		TX	053			1353	385	391	America/Chicago	2011-05-14
+4674001	Beverly	Beverly		31.52517	-97.14195	P	PPL	US		TX	309			2162	148	152	America/Chicago	2006-01-15
+4674006	Beverly Hills	Beverly Hills	Bevurli Khils,Бевърли Хилс	31.52156	-97.15389	P	PPL	US		TX	309			1995	161	167	America/Chicago	2011-05-14
+4674015	Bevil Oaks	Bevil Oaks		30.15021	-94.26963	P	PPL	US		TX	245			1274	8	19	America/Chicago	2011-05-14
+4674337	Big Sandy	Big Sandy		32.58375	-95.10883	P	PPL	US		TX	459			1343	112	122	America/Chicago	2011-05-14
+4674593	Bishop	Bishop		27.58614	-97.79916	P	PPL	US		TX	355			3134	19	22	America/Chicago	2011-05-14
+4674911	Blanco	Blanco		30.09799	-98.42141	P	PPL	US		TX	031			1739	405	408	America/Chicago	2011-05-14
+4675057	Bloomington	Bloomington	Blumington,Блумингтон	28.64777	-96.89249	P	PPL	US		TX	469			2459	18	21	America/Chicago	2011-05-14
+4675059	Blossom	Blossom		33.6615	-95.38579	P	PPL	US		TX	277			1494	161	167	America/Chicago	2011-05-14
+4675146	Blue Mound	Blue Mound		32.85652	-97.33891	P	PPL	US		TX	439			2394	205	209	America/Chicago	2011-05-14
+4675373	Boerne	Boerne		29.79466	-98.73197	P	PPLA2	US		TX	259			10471	430	431	America/Chicago	2011-05-14
+4675398	Bogata	Bogata		33.47067	-95.21384	P	PPL	US		TX	387			1153	129	134	America/Chicago	2011-05-14
+4675525	Boling	Boling		29.26442	-95.94384	P	PPL	US		TX	481			1122	24	28	America/Chicago	2011-05-14
+4675536	Bolivar Peninsula	Bolivar Peninsula		29.47829	-94.57991	P	PPL	US		TX	167			2417	3	4	America/Chicago	2011-05-14
+4675577	Bonham	Bonham		33.57733	-96.17831	P	PPLA2	US		TX	147			10127	186	189	America/Chicago	2011-05-14
+4675803	Bowie	Bowie	Boui,Боуи	33.559	-97.84865	P	PPL	US		TX	337			5218	344	350	America/Chicago	2011-05-14
+4675929	Boyd	Boyd		33.07873	-97.5653	P	PPL	US		TX	497			1207	222	224	America/Chicago	2011-05-14
+4676032	Brady	Brady	BBD	31.13517	-99.33506	P	PPLA2	US		TX	307			5528	511	519	America/Chicago	2011-05-14
+4676131	Brazoria	Brazoria	BZT	29.04441	-95.56911	P	PPL	US		TX	039			3019	9	11	America/Chicago	2011-05-14
+4676181	Breckenridge	Breckenridge		32.75568	-98.90229	P	PPLA2	US		TX	429			5780	367	372	America/Chicago	2011-05-14
+4676206	Brenham	Brenham		30.16688	-96.39774	P	PPLA2	US		TX	477			15716	104	109	America/Chicago	2011-05-14
+4676266	Briar	Briar		32.99512	-97.5428	P	PPL	US		TX	497			5665	227	231	America/Chicago	2011-05-14
+4676287	Briarcliff	Briarcliff		30.40742	-98.04446	P	PPL	US		TX	453			1438	230	236	America/Chicago	2011-05-14
+4676316	Bridge City	Bridge City		30.02077	-93.84573	P	PPL	US		TX	361			7840	3	5	America/Chicago	2011-05-14
+4676327	Bridgeport	Bridgeport		33.21012	-97.75476	P	PPL	US		TX	497			5976	244	247	America/Chicago	2011-05-14
+4676571	Brookshire	Brookshire		29.78606	-95.95107	P	PPL	US		TX	473			4702	49	54	America/Chicago	2011-05-14
+4676580	Brookside Village	Brookside Village		29.5869	-95.32522	P	PPL	US		TX	039			1523	16	20	America/Chicago	2011-05-14
+4676737	Brownsboro	Brownsboro		32.30237	-95.61357	P	PPL	US		TX	213			1039	116	122	America/Chicago	2011-05-14
+4676740	Brownsville	Brownsville	BRO,Brownsville	25.90175	-97.49748	P	PPLA2	US		TX	061			175023	10	17	America/Chicago	2011-05-14
+4676794	Bruceville-Eddy	Bruceville-Eddy		31.30517	-97.25167	P	PPL	US		TX	309			1475	211	213	America/Chicago	2011-05-14
+4676798	Brownwood	Brownwood		31.70932	-98.99116	P	PPLA2	US		TX	049			19288	416	420	America/Chicago	2011-05-14
+4676920	Brushy Creek	Brushy Creek		30.51353	-97.73973	P	PPL	US		TX	491			21764	252	258	America/Chicago	2011-05-14
+4677008	Bryan	Bryan	Bryan,CFD	30.67436	-96.36996	P	PPLA2	US		TX	041			76201	114	116	America/Chicago	2011-05-14
+4677042	Buchanan Dam	Buchanan Dam		30.7399	-98.43114	P	PPL	US		TX	299			1519	318	324	America/Chicago	2011-05-14
+4677230	Buffalo	Buffalo	Buffalo,Буффало	31.46379	-96.05802	P	PPL	US		TX	289			1856	117	120	America/Chicago	2011-05-14
+4677344	Bullard	Bullard		32.13988	-95.32023	P	PPL	US		TX	423			2463	154	158	America/Chicago	2011-05-14
+4677392	Bulverde	Bulverde		29.74383	-98.45307	P	PPL	US		TX	091			4630	333	341	America/Chicago	2011-05-14
+4677412	Buna	Buna		30.43298	-93.9624	P	PPL	US		TX	241			2142	23	27	America/Chicago	2011-05-14
+4677432	Bunker Hill Village	Bunker Hill Village		29.76745	-95.52994	P	PPL	US		TX	201			3633	25	33	America/Chicago	2011-05-14
+4677526	Burkburnett	Burkburnett		34.09787	-98.57061	P	PPL	US		TX	485			10811	323	327	America/Chicago	2011-05-14
+4677551	Burleson	Burleson	Burlesone,Бурлесоне	32.54208	-97.32085	P	PPL	US		TX	251			36690	217	220	America/Chicago	2011-05-14
+4677592	Burnet	Burnet		30.75824	-98.22836	P	PPLA2	US		TX	053			5987	392	396	America/Chicago	2011-05-14
+4677979	Cactus	Cactus		27.90695	-99.39392	P	PPL	US		TX	479			2722	178	179	America/Chicago	2010-02-18
+4678005	Caddo Mills	Caddo Mills		33.06567	-96.22776	P	PPL	US		TX	231			1338	162	168	America/Chicago	2011-05-14
+4678111	Caldwell	Caldwell	Kolduehll,Колдуэлл	30.53132	-96.69303	P	PPLA2	US		TX	051			4104	117	123	America/Chicago	2011-05-14
+4678322	Calvert	Calvert		30.97797	-96.67386	P	PPL	US		TX	395			1192	100	104	America/Chicago	2011-05-14
+4678357	Cameron	Cameron		30.85325	-96.97693	P	PPLA2	US		TX	331			5552	122	127	America/Chicago	2011-05-14
+4678379	Cameron Park	Cameron Park		25.96452	-97.47665	P	PPL	US		TX	061			6963	5	8	America/Chicago	2011-05-14
+4678381	Cameron Park Colonia	Cameron Park Colonia		25.97147	-97.47832	P	PPL	US		TX	061			6963	8	14	America/Chicago	2011-05-14
+4678565	Camp Swift	Camp Swift		30.19077	-97.29221	P	PPL	US		TX	021			6383	134	140	America/Chicago	2011-05-14
+4678858	Canton	Canton		32.55652	-95.8633	P	PPLA2	US		TX	467			3581	154	158	America/Chicago	2011-05-14
+4678901	Canyon Lake	Canyon Lake		29.87522	-98.26251	P	PPL	US		TX	091			21262	294	296	America/Chicago	2011-05-14
+4679148	Carrizo Springs	Carrizo Springs		28.52193	-99.86061	P	PPLA2	US		TX	127			5368	184	184	America/Chicago	2011-05-14
+4679195	Carrollton	Carrollton	Carrollton	32.95373	-96.89028	P	PPL	US		TX	113			119097	161	163	America/Chicago	2011-05-14
+4679272	Carthage	Carthage		32.15738	-94.33742	P	PPLA2	US		TX	365			6779	95	99	America/Chicago	2011-05-14
+4679437	Castle Hills	Castle Hills		29.52329	-98.51641	P	PPL	US		TX	029			4116	256	260	America/Chicago	2011-05-14
+4679459	Castroville	Castroville		29.35579	-98.87864	P	PPL	US		TX	325			2680	231	234	America/Chicago	2011-05-14
+4679803	Cedar Hill	Cedar Hill		32.58847	-96.95612	P	PPL	US		TX	113			45028	253	258	America/Chicago	2011-05-14
+4679867	Cedar Park	Cedar Park		30.5052	-97.82029	P	PPL	US		TX	491			48937	276	278	America/Chicago	2011-05-14
+4679944	Celina	Celina		33.32456	-96.78444	P	PPL	US		TX	085			6028	211	217	America/Chicago	2011-05-14
+4679987	Center	Center		31.51073	-96.4247	P	PPL	US		TX	293			5727	131	134	America/Chicago	2006-01-17
+4679988	Center	Center		31.79545	-94.17909	P	PPLA2	US		TX	419			5193	113	118	America/Chicago	2011-05-14
+4680082	Centerville	Centerville		31.25796	-95.97829	P	PPLA2	US		TX	289			892	108	109	America/Chicago	2011-05-14
+4680165	Central Gardens	Central Gardens		29.99549	-94.01406	P	PPL	US		TX	245			4347	5	9	America/Chicago	2011-05-14
+4680258	César Chávez	Cesar Chavez		26.3034	-98.11529	P	PPL	US		TX	215			1929	26	27	America/Chicago	2011-05-14
+4680369	Chandler	Chandler	Chandler,Чандлер	32.30793	-95.47996	P	PPL	US		TX	213			2734	123	125	America/Chicago	2011-05-14
+4680388	Channelview	Channelview		29.77606	-95.11465	P	PPL	US		TX	201			38289	9	11	America/Chicago	2011-05-14
+4680560	Charlotte	Charlotte	Sharlott,Шарлотт	28.86192	-98.70641	P	PPL	US		TX	013			1715	165	167	America/Chicago	2011-05-14
+4680702	Chico	Chico	Chiko,Чико	33.29595	-97.79892	P	PPL	US		TX	497			1002	282	289	America/Chicago	2011-05-14
+4680774	China	China		30.04799	-94.33574	P	PPL	US		TX	245			1160	12	17	America/Chicago	2011-05-14
+4680782	China Grove	China Grove		29.38885	-98.3489	P	PPL	US		TX	029			1179	199	205	America/Chicago	2011-05-14
+4681462	Cibolo	Cibolo		29.56162	-98.22696	P	PPL	US		TX	187			15349	213	217	America/Chicago	2011-05-14
+4681485	Cinco Ranch	Cinco Ranch		29.73884	-95.758	P	PPL	US		TX	157			18274	34	35	America/Chicago	2011-05-14
+4681521	Cisco	Cisco		32.38819	-98.97923	P	PPL	US		TX	133			3899	498	500	America/Chicago	2011-05-14
+4681542	Citrus City	Citrus City		26.32646	-98.3853	P	PPL	US		TX	215			2321	66	68	America/Chicago	2011-05-14
+4681758	Clarksville	Clarksville		33.61066	-95.05272	P	PPLA2	US		TX	387			3285	125	128	America/Chicago	2011-05-14
+4681951	Clear Lake Shores	Clear Lake Shores		29.54745	-95.03215	P	PPL	US		TX	167			1063	3	11	America/Chicago	2011-05-14
+4681976	Cleburne	Cleburne		32.34764	-97.38668	P	PPLA2	US		TX	251			29337	233	240	America/Chicago	2011-05-14
+4682031	Cleveland	Cleveland		31.67682	-99.25367	P	PPL	US		TX	083			7936	471	474	America/Chicago	2006-01-17
+4682032	Cleveland	Cleveland	Klivlend,Кливленд	30.34132	-95.08549	P	PPL	US		TX	291			7675	48	54	America/Chicago	2011-05-14
+4682066	Clifton	Clifton	Klifton,Клифтон	31.78238	-97.57669	P	PPL	US		TX	035			3442	205	209	America/Chicago	2011-05-14
+4682127	Cloverleaf	Cloverleaf		29.77828	-95.17188	P	PPL	US		TX	201			22942	8	13	America/Chicago	2011-05-14
+4682163	Clute	Clute		29.02469	-95.39883	P	PPL	US		TX	039			11211	4	8	America/Chicago	2011-05-14
+4682169	Clyde	Clyde		32.40596	-99.49369	P	PPL	US		TX	059			3713	607	608	America/Chicago	2011-05-14
+4682251	Cockrell Hill	Cockrell Hill		32.73624	-96.88695	P	PPL	US		TX	113			4193	195	202	America/Chicago	2011-05-14
+4682352	Coldspring	Coldspring		30.59242	-95.12938	P	PPLA2	US		TX	407			853	110	114	America/Chicago	2011-05-14
+4682380	Coleman	Coleman	COM	31.82737	-99.42645	P	PPLA2	US		TX	083			4709	519	521	America/Chicago	2011-05-14
+4682464	College Station	College Station	CLL,College Station	30.62798	-96.33441	P	PPL	US		TX	041			93857	103	107	America/Chicago	2011-05-14
+4682478	Colleyville	Colleyville		32.88096	-97.15501	P	PPL	US		TX	439			22807	187	190	America/Chicago	2011-05-14
+4682536	Collinsville	Collinsville	Kollinsvil',Коллинсвиль	33.5615	-96.91111	P	PPL	US		TX	181			1624	229	234	America/Chicago	2011-05-14
+4682665	Columbus	Columbus	Kolumbus,Колумбус	29.70662	-96.53969	P	PPLA2	US		TX	089			3655	62	68	America/Chicago	2011-05-14
+4682698	Comanche	Comanche		31.89737	-98.60366	P	PPLA2	US		TX	093			4335	421	421	America/Chicago	2011-05-14
+4682742	Combes	Combes		26.24869	-97.73388	P	PPL	US		TX	061			2895	12	16	America/Chicago	2011-05-14
+4682745	Combine	Combine		32.58847	-96.5086	P	PPL	US		TX	257			1942	126	132	America/Chicago	2011-05-14
+4682748	Comfort	Comfort		29.96772	-98.90503	P	PPL	US		TX	259			2363	435	435	America/Chicago	2011-05-14
+4682762	Commerce	Commerce		33.24706	-95.89997	P	PPL	US		TX	231			8078	169	172	America/Chicago	2011-05-14
+4682991	Conroe	Conroe	CXO	30.31188	-95.45605	P	PPLA2	US		TX	339			56207	67	69	America/Chicago	2011-05-14
+4683021	Converse	Converse		29.51801	-98.31612	P	PPL	US		TX	029			18198	219	222	America/Chicago	2011-05-14
+4683141	Cooper	Cooper		33.37344	-95.68829	P	PPLA2	US		TX	119			2150	147	154	America/Chicago	2012-05-09
+4683142	Cooper	Cooper		31.24324	-95.58217	P	PPL	US		TX	225			2180	80	81	America/Chicago	2006-01-17
+4683217	Coppell	Coppell	Koppell,Коппелл	32.95457	-97.01501	P	PPL	US		TX	113			38659	158	169	America/Chicago	2011-05-14
+4683230	Copper Canyon	Copper Canyon		33.09595	-97.09668	P	PPL	US		TX	121			1334	190	195	America/Chicago	2011-05-14
+4683244	Copperas Cove	Copperas Cove		31.12406	-97.90308	P	PPL	US		TX	099			32032	333	333	America/Chicago	2011-05-14
+4683317	Corinth	Corinth		33.15401	-97.06473	P	PPL	US		TX	121			19935	185	190	America/Chicago	2011-05-14
+4683416	Corpus Christi	Corpus Christi	CRP,Corpus Christi,Korpus-Kristi,kopasukurisuti,Корпус-Кристи,コーパスクリスティ	27.80058	-97.39638	P	PPLA2	US		TX	355			305215	2	8	America/Chicago	2011-05-14
+4683453	Corrigan	Corrigan		30.99686	-94.82715	P	PPL	US		TX	373			1595	72	76	America/Chicago	2011-05-14
+4683462	Corsicana	Corsicana	CRS	32.09543	-96.46887	P	PPLA2	US		TX	349			23770	135	141	America/Chicago	2011-05-14
+4683689	Cottonwood Shores	Cottonwood Shores		30.55575	-98.32391	P	PPL	US		TX	053			1123	253	257	America/Chicago	2011-05-14
+4683696	Cotulla	Cotulla	COT	28.43693	-99.23503	P	PPLA2	US		TX	283			3603	130	133	America/Chicago	2011-05-14
+4684056	Crandall	Crandall		32.62791	-96.45582	P	PPL	US		TX	257			2858	129	133	America/Chicago	2011-05-14
+4684218	Crockett	Crockett		31.31824	-95.45661	P	PPLA2	US		TX	225			6950	111	116	America/Chicago	2011-05-14
+4684301	Crosby	Crosby		29.91189	-95.06215	P	PPL	US		TX	201			2299	14	19	America/Chicago	2011-05-14
+4684330	Cross Mountain	Cross Mountain		29.6455	-98.65947	P	PPL	US		TX	029			3124	426	435	America/Chicago	2011-05-14
+4684431	Crowell	Crowell		33.98397	-99.72482	P	PPLA2	US		TX	155			948	449	456	America/Chicago	2011-05-14
+4684434	Crowley	Crowley		32.57903	-97.36252	P	PPL	US		TX	439			12838	237	241	America/Chicago	2011-05-14
+4684480	Crystal City	Crystal City		28.67748	-99.82811	P	PPLA2	US		TX	507			7138	170	171	America/Chicago	2011-05-14
+4684547	Cuero	Cuero		29.09387	-97.28916	P	PPLA2	US		TX	123			6841	56	60	America/Chicago	2011-05-14
+4684698	Cut and Shoot	Cut and Shoot		30.33327	-95.35799	P	PPL	US		TX	339			1070	58	61	America/Chicago	2011-05-14
+4684724	Cypress	Cypress		29.96911	-95.69717	P	PPL	US		TX	201			46025	46	51	America/Chicago	2011-07-28
+4684858	Daingerfield	Daingerfield		33.03179	-94.72187	P	PPLA2	US		TX	343			2560	121	124	America/Chicago	2011-05-14
+4684888	Dallas	Dallas	DFW,Dalas,Dalasa,Dalasas,Dallas,Dallasium,Gorad Dalas,Ntalas,da la si,daelleoseu,dailasa,dalas,dalas, tksas,dalasa,dalasi,dallas,darasu,delasa,talas,Ντάλας,Горад Далас,Далас,Даллас,Դալաս,דאלאס,دالاس,دالاس، تكساس,داللاس,ڈیلاس,डॅलस,डैलस,ডালাস,டாலஸ்,డల్లాస్,ഡാലസ്,แดลลัส,დალასი,ダラス,達拉斯,댈러스	32.78306	-96.80667	P	PPLA2	US		TX	113			1197816	128	139	America/Chicago	2011-06-16
+4684955	Dalworthington Gardens	Dalworthington Gardens		32.70291	-97.15529	P	PPL	US		TX	439			2259	174	180	America/Chicago	2011-05-14
+4685160	Danbury	Danbury		29.2283	-95.34494	P	PPL	US		TX	039			1715	7	11	America/Chicago	2011-05-14
+4685449	Dayton	Dayton	Dejton,Дейтон	30.04661	-94.8852	P	PPL	US		TX	291			7242	25	29	America/Chicago	2011-05-14
+4685467	De Kalb	De Kalb		33.50873	-94.61632	P	PPL	US		TX	037			1699	125	128	America/Chicago	2011-05-14
+4685478	De Leon	De Leon		32.11097	-98.53588	P	PPL	US		TX	093			2246	390	396	America/Chicago	2011-05-14
+4685515	DeCordova	DeCordova		32.42986	-97.69503	P	PPL	US		TX	221			2683	213	223	America/Chicago	2011-05-14
+4685524	DeSoto	DeSoto	Soto,Сото	32.58986	-96.85695	P	PPL	US		TX	113			49047	203	205	America/Chicago	2011-05-14
+4685617	Decatur	Decatur	Dekejter,Декейтер	33.23428	-97.58614	P	PPLA2	US		TX	497			6042	336	339	America/Chicago	2011-05-14
+4685737	Deer Park	Deer Park		29.70523	-95.12382	P	PPL	US		TX	201			32010	9	10	America/Chicago	2011-05-14
+4685892	Denison	Denison	Denison,Денисон	33.75566	-96.53666	P	PPL	US		TX	181			22682	222	227	America/Chicago	2011-05-14
+4685907	Denton	Denton	Denton,Dentono,dentana,ডেন্টন	33.21484	-97.13307	P	PPLA2	US		TX	121			113383	201	206	America/Chicago	2011-05-14
+4686085	Deweyville	Deweyville		30.29771	-93.7435	P	PPL	US		TX	351			1023	6	16	America/Chicago	2011-05-14
+4686131	Diboll	Diboll		31.18713	-94.78104	P	PPL	US		TX	005			4776	64	68	America/Chicago	2011-05-14
+4686163	Dickinson	Dickinson		29.46079	-95.05132	P	PPL	US		TX	167			18680	3	10	America/Chicago	2011-05-14
+4686472	Doffing	Doffing		26.27452	-98.38585	P	PPL	US		TX	215			5091	57	60	America/Chicago	2011-05-14
+4686593	Donna	Donna		26.17035	-98.05195	P	PPL	US		TX	215			15798	28	32	America/Chicago	2011-05-14
+4686621	Doolittle	Doolittle		26.34701	-98.12056	P	PPL	US		TX	215			2769	26	30	America/Chicago	2011-05-14
+4686709	Double Oak	Double Oak		33.06512	-97.11057	P	PPL	US		TX	121			2867	201	204	America/Chicago	2011-05-14
+4686903	Dripping Springs	Dripping Springs		30.19021	-98.08668	P	PPL	US		TX	209			1788	350	355	America/Chicago	2011-05-14
+4687151	Dublin	Dublin	Dublin,Дублин	32.08514	-98.34199	P	PPL	US		TX	143			3654	446	453	America/Chicago	2011-05-14
+4687331	Duncanville	Duncanville		32.6518	-96.90834	P	PPL	US		TX	113			38524	221	224	America/Chicago	2011-05-14
+4687579	Eagle Lake	Eagle Lake		29.58968	-96.33358	P	PPL	US		TX	089			3639	53	57	America/Chicago	2011-05-14
+4687588	Eagle Mountain	Eagle Mountain		32.89346	-97.44446	P	PPL	US		TX	439			7003	204	207	America/Chicago	2006-01-17
+4687635	Early	Early		31.7421	-98.94561	P	PPL	US		TX	049			2762	431	430	America/Chicago	2011-05-14
+4687678	East Bernard	East Bernard		29.53107	-96.07107	P	PPL	US		TX	481			2272	38	41	America/Chicago	2011-05-14
+4688071	Eastland	Eastland		32.40152	-98.81756	P	PPLA2	US		TX	133			3960	439	440	America/Chicago	2011-05-14
+4688216	Edcouch	Edcouch		26.29396	-97.96056	P	PPL	US		TX	215			3161	19	24	America/Chicago	2011-05-14
+4688222	Eden	Eden		31.21628	-99.84563	P	PPL	US		TX	095			2766	626	626	America/Chicago	2011-05-14
+4688248	Edgecliff Village	Edgecliff Village		32.65763	-97.34279	P	PPL	US		TX	439			2776	209	214	America/Chicago	2011-05-14
+4688254	Edgewood	Edgewood		32.69818	-95.88524	P	PPL	US		TX	467			1441	140	144	America/Chicago	2011-05-14
+4688275	Edinburg	Edinburg	Ehdinburg,Эдинбург	26.30174	-98.16334	P	PPLA2	US		TX	215			77100	30	35	America/Chicago	2011-05-14
+4688506	El Campo	El Campo		29.19664	-96.26969	P	PPL	US		TX	481			11602	32	36	America/Chicago	2011-05-14
+4688520	El Cenizo	El Cenizo		27.35224	-99.49254	P	PPL	US		TX	479			3273	119	117	America/Chicago	2011-05-14
+4688582	El Lago	El Lago		29.56356	-95.04521	P	PPL	US		TX	201			2706	3	8	America/Chicago	2011-05-14
+4688739	Electra	Electra		34.02926	-98.91896	P	PPL	US		TX	485			2791	372	378	America/Chicago	2011-05-14
+4688756	Elgin	Elgin		30.34965	-97.37027	P	PPL	US		TX	021			8135	177	180	America/Chicago	2011-05-14
+4688795	Elkhart	Elkhart	Ehlkkhart,Элкхарт	31.62517	-95.5794	P	PPL	US		TX	001			1371	117	122	America/Chicago	2011-05-14
+4689077	Elmendorf	Elmendorf		29.25607	-98.33279	P	PPL	US		TX	029			1488	152	155	America/Chicago	2011-05-14
+4689120	Elsa	Elsa		26.2934	-97.99306	P	PPL	US		TX	215			5660	21	24	America/Chicago	2011-05-14
+4689236	Emory	Emory		32.87457	-95.76552	P	PPLA2	US		TX	379			1239	146	145	America/Chicago	2011-05-14
+4689240	Encantada-Ranchito-El Calaboz	Encantada-Ranchito-El Calaboz		26.03344	-97.63307	P	PPL	US		TX	061			2255	13	12	America/Chicago	2011-05-14
+4689311	Ennis	Ennis		32.32931	-96.62527	P	PPL	US		TX	139			18513	164	166	America/Chicago	2011-05-14
+4689429	Escobares	Escobares		26.41062	-98.96253	P	PPL	US		TX	427			1188	55	56	America/Chicago	2011-05-14
+4689550	Euless	Euless		32.83707	-97.08195	P	PPL	US		TX	439			51277	179	184	America/Chicago	2011-05-14
+4689569	Evadale	Evadale		30.35493	-94.07268	P	PPL	US		TX	241			1483	14	16	America/Chicago	2011-05-14
+4689708	Everman	Everman		32.63097	-97.28918	P	PPL	US		TX	439			6108	204	208	America/Chicago	2011-05-14
+4689803	Fair Oaks Ranch	Fair Oaks Ranch		29.74578	-98.64336	P	PPL	US		TX	029			5986	387	390	America/Chicago	2011-05-14
+4689837	Fairfield	Fairfield	Feurfild,Феърфилд	31.72461	-96.16525	P	PPLA2	US		TX	161			2951	141	142	America/Chicago	2011-05-14
+4689871	Fairview	Fairview		33.1579	-96.63166	P	PPL	US		TX	085			7248	192	197	America/Chicago	2011-05-14
+4689877	Fairview	Fairview		33.01929	-97.54586	P	PPL	US		TX	497			1258	224	229	America/Chicago	2011-05-14
+4690057	Falcon Lake Estates	Falcon Lake Estates		26.87282	-99.25531	P	PPL	US		TX	505			1036	108	109	America/Chicago	2011-05-14
+4690070	Falfurrias	Falfurrias		27.22699	-98.14417	P	PPLA2	US		TX	047			4981	35	41	America/Chicago	2011-05-14
+4690136	Fannett	Fannett		29.92605	-94.25074	P	PPL	US		TX	245			2252	6	9	America/Chicago	2011-05-14
+4690198	Farmers Branch	Farmers Branch		32.92651	-96.89612	P	PPL	US		TX	113			28616	141	147	America/Chicago	2011-05-14
+4690218	Farmersville	Farmersville		33.16345	-96.35998	P	PPL	US		TX	085			3301	199	203	America/Chicago	2011-05-14
+4690257	Fate	Fate		32.94151	-96.38137	P	PPL	US		TX	397			6357	179	183	America/Chicago	2011-05-14
+4690428	Ferris	Ferris		32.53403	-96.66555	P	PPL	US		TX	139			2436	142	146	America/Chicago	2011-05-14
+4690506	Fifth Street	Fifth Street		29.59829	-95.55133	P	PPL	US		TX	157			2486	23	28	America/Chicago	2011-05-14
+4691441	Flatonia	Flatonia		29.68773	-97.1086	P	PPL	US		TX	149			1383	139	142	America/Chicago	2011-05-14
+4691524	Florence	Florence	Florencija,Флоренция	30.8413	-97.79363	P	PPL	US		TX	491			1136	303	307	America/Chicago	2011-05-14
+4691553	Floresville	Floresville		29.13358	-98.15612	P	PPLA2	US		TX	493			6448	119	124	America/Chicago	2011-05-14
+4691585	Flower Mound	Flower Mound	Flower Mound	33.01457	-97.09696	P	PPL	US		TX	121			64669	184	186	America/Chicago	2011-05-14
+4691766	Forest Hill	Forest Hill		32.67208	-97.26918	P	PPL	US		TX	439			12355	208	215	America/Chicago	2011-05-14
+4691833	Forney	Forney		32.74818	-96.47193	P	PPL	US		TX	257			14661	144	149	America/Chicago	2011-05-14
+4691930	Fort Worth	Fort Worth	FTW,Fort Uurt,Fort Worth,Fort-Uehrt,fotowasu,pwrt wwrt',wo si bao,Форт Уърт,Форт-Уэрт,פורט וורת',フォートワース,沃斯堡	32.72541	-97.32085	P	PPLA2	US		TX	439			741206	199	203	America/Chicago	2011-05-14
+4692051	Four Corners	Four Corners		29.66857	-95.65772	P	PPL	US		TX	157			12382	28	31	America/Chicago	2011-05-14
+4692193	Franklin	Franklin	Franklin,Франклин	31.02602	-96.48524	P	PPLA2	US		TX	395			1564	137	137	America/Chicago	2011-05-14
+4692252	Frankston	Frankston		32.05266	-95.50635	P	PPL	US		TX	001			1229	128	133	America/Chicago	2011-05-14
+4692279	Fredericksburg	Fredericksburg	Frederiksburg,Фредериксбург	30.2752	-98.87198	P	PPLA2	US		TX	171			10530	516	519	America/Chicago	2011-05-14
+4692355	Freeport	Freeport		28.95414	-95.35966	P	PPL	US		TX	039			12049	1	2	America/Chicago	2011-05-14
+4692359	Freer	Freer		27.8828	-98.61779	P	PPL	US		TX	131			2818	158	160	America/Chicago	2011-05-14
+4692400	Fresno	Fresno	Fresno,Фресно	29.53885	-95.44744	P	PPL	US		TX	157			19069	22	27	America/Chicago	2011-05-14
+4692521	Friendswood	Friendswood		29.5294	-95.20104	P	PPL	US		TX	167			35805	10	11	America/Chicago	2011-05-14
+4692559	Frisco	Frisco	Frisco	33.15067	-96.82361	P	PPL	US		TX	085			116989	212	216	America/Chicago	2011-05-14
+4692658	Fulshear	Fulshear		29.68996	-95.89968	P	PPL	US		TX	157			1134	40	43	America/Chicago	2011-05-14
+4692661	Fulton	Fulton		28.0614	-97.0411	P	PPL	US		TX	007			1358	3	9	America/Chicago	2011-05-14
+4692746	Gainesville	Gainesville	GLE	33.62594	-97.13335	P	PPLA2	US		TX	097			16002	229	233	America/Chicago	2011-05-14
+4692771	Galena Park	Galena Park		29.73356	-95.23021	P	PPL	US		TX	201			10887	3	9	America/Chicago	2011-05-14
+4692883	Galveston	Galveston	GLS,Galveston,garubesuton,Галвестон,ガルベストン	29.30135	-94.7977	P	PPLA2	US		TX	167			47743	2	5	America/Chicago	2011-05-14
+4692898	Ganado	Ganado		29.04054	-96.51358	P	PPL	US		TX	239			2003	20	23	America/Chicago	2011-05-14
+4692962	Garden Ridge	Garden Ridge		29.63467	-98.30529	P	PPL	US		TX	091			3259	272	278	America/Chicago	2011-05-14
+4692983	Gardendale	Gardendale		28.51693	-99.21614	P	PPL	US		TX	283			1247	180	177	America/Chicago	2010-02-18
+4692997	Garfield	Garfield		30.18744	-97.55778	P	PPL	US		TX	453			1698	146	152	America/Chicago	2011-05-14
+4693003	Garland	Garland	Garland,Girljanda,Гирлянда	32.91262	-96.63888	P	PPL	US		TX	113			226876	168	174	America/Chicago	2011-05-14
+4693150	Gatesville	Gatesville		31.43516	-97.74391	P	PPLA2	US		TX	099			15751	246	252	America/Chicago	2011-05-14
+4693325	George West	George West		28.3325	-98.11751	P	PPLA2	US		TX	297			2445	48	51	America/Chicago	2011-05-14
+4693342	Georgetown	Georgetown		30.63269	-97.67723	P	PPLA2	US		TX	491			47400	230	235	America/Chicago	2011-05-14
+4693389	Geronimo	Geronimo		29.663	-97.96695	P	PPL	US		TX	187			1032	177	181	America/Chicago	2011-05-14
+4693426	Gholson	Gholson		31.701	-97.2164	P	PPL	US		TX	309			1061	131	135	America/Chicago	2011-05-14
+4693472	Giddings	Giddings		30.18272	-96.93637	P	PPLA2	US		TX	287			4881	154	157	America/Chicago	2011-05-14
+4693569	Gilmer	Gilmer		32.72875	-94.94244	P	PPLA2	US		TX	459			4905	112	117	America/Chicago	2011-05-14
+4693621	Gladewater	Gladewater		32.53653	-94.94272	P	PPL	US		TX	183			6441	111	116	America/Chicago	2011-05-14
+4693696	Glen Rose	Glen Rose		32.23459	-97.75531	P	PPLA2	US		TX	425			2444	189	191	America/Chicago	2011-05-14
+4693726	Glenn Heights	Glenn Heights		32.54875	-96.85667	P	PPL	US		TX	113			11278	206	206	America/Chicago	2011-05-14
+4693832	Godley	Godley		32.44903	-97.52669	P	PPL	US		TX	251			1009	283	287	America/Chicago	2011-05-14
+4693906	Goldthwaite	Goldthwaite		31.44989	-98.57088	P	PPLA2	US		TX	333			1878	479	484	America/Chicago	2011-05-14
+4693921	Goliad	Goliad		28.66833	-97.38833	P	PPLA2	US		TX	175			1908	50	55	America/Chicago	2011-05-14
+4693940	Gonzales	Gonzales		29.50163	-97.45249	P	PPLA2	US		TX	177			7237	87	94	America/Chicago	2011-05-14
+4694156	Gorman	Gorman		32.21375	-98.67061	P	PPL	US		TX	133			1083	443	444	America/Chicago	2011-05-14
+4694420	Graham	Graham		33.10706	-98.5895	P	PPLA2	US		TX	503			8903	319	327	America/Chicago	2011-05-14
+4694459	Granbury	Granbury		32.44208	-97.7942	P	PPLA2	US		TX	221			7978	224	228	America/Chicago	2011-05-14
+4694482	Grand Prairie	Grand Prairie	Grand Prairie	32.74596	-96.99778	P	PPL	US		TX	113			175396	157	162	America/Chicago	2011-05-14
+4694488	Grand Saline	Grand Saline		32.67346	-95.70941	P	PPL	US		TX	467			3136	122	126	America/Chicago	2011-05-14
+4694503	Grandview	Grandview		32.27042	-97.17918	P	PPL	US		TX	251			1561	211	217	America/Chicago	2011-05-14
+4694521	Granger	Granger		30.71769	-97.44278	P	PPL	US		TX	491			1419	176	179	America/Chicago	2011-05-14
+4694535	Granite Shoals	Granite Shoals		30.58908	-98.38392	P	PPL	US		TX	053			4910	268	271	America/Chicago	2011-05-14
+4694562	Grapeland	Grapeland		31.49184	-95.47856	P	PPL	US		TX	225			1489	144	149	America/Chicago	2011-05-14
+4694568	Grapevine	Grapevine		32.93429	-97.07807	P	PPL	US		TX	439			46334	195	199	America/Chicago	2011-05-14
+4694896	Greatwood	Greatwood		29.55413	-95.67578	P	PPL	US		TX	157			11538	21	25	America/Chicago	2011-05-14
+4694990	Green Valley Farms	Green Valley Farms		26.12202	-97.56054	P	PPL	US		TX	061			1272	6	8	America/Chicago	2011-05-14
+4695066	Greenville	Greenville	GVT,Grinvill,Гринвилл	33.13845	-96.11081	P	PPLA2	US		TX	231			25557	165	169	America/Chicago	2011-05-14
+4695155	Gregory	Gregory		27.92224	-97.28999	P	PPL	US		TX	409			1907	9	14	America/Chicago	2011-05-14
+4695270	Groesbeck	Groesbeck		31.52434	-96.53387	P	PPLA2	US		TX	293			4328	146	152	America/Chicago	2011-05-14
+4695317	Groves	Groves		29.94827	-93.91712	P	PPL	US		TX	245			16144	4	10	America/Chicago	2011-05-14
+4695325	Groveton	Groveton		31.05491	-95.12577	P	PPLA2	US		TX	455			1057	100	102	America/Chicago	2011-05-14
+4695535	Gun Barrel City	Gun Barrel City		32.33459	-96.15136	P	PPL	US		TX	213			5672	107	117	America/Chicago	2011-05-14
+4695553	Gunter	Gunter		33.44789	-96.74749	P	PPL	US		TX	181			1498	215	217	America/Chicago	2011-05-14
+4695554	Gunter	Gunter		32.86873	-95.62968	P	PPL	US		TX	499			1666	126	129	America/Chicago	2006-01-17
+4695866	Hallettsville	Hallettsville		29.44385	-96.94109	P	PPLA2	US		TX	285			2550	71	76	America/Chicago	2011-05-14
+4695894	Hallsville	Hallsville		32.50432	-94.57409	P	PPL	US		TX	203			3577	111	114	America/Chicago	2011-05-14
+4695912	Haltom City	Haltom City		32.79957	-97.26918	P	PPL	US		TX	439			42409	163	166	America/Chicago	2011-05-14
+4695938	Hamilton	Hamilton	Gamil'ton,Гамильтон	31.70377	-98.12392	P	PPLA2	US		TX	193			3095	356	357	America/Chicago	2011-05-14
+4696202	Harker Heights	Harker Heights		31.08351	-97.65974	P	PPL	US		TX	027			26700	233	236	America/Chicago	2011-05-14
+4696233	Harlingen	Harlingen	HRL,Harlingen,Kharlingen,Харлинген	26.19063	-97.6961	P	PPL	US		TX	061			64849	12	17	America/Chicago	2011-05-14
+4696310	Harper	Harper		30.29992	-99.24421	P	PPL	US		TX	171			1192	626	627	America/Chicago	2011-05-14
+4696593	Haskell	Haskell		33.1576	-99.7337	P	PPLA2	US		TX	207			3322	482	483	America/Chicago	2011-05-14
+4696605	Haslet	Haslet		32.97485	-97.3478	P	PPL	US		TX	439			1517	214	218	America/Chicago	2011-05-14
+4696686	Hawkins	Hawkins		32.58847	-95.20411	P	PPL	US		TX	499			1278	124	127	America/Chicago	2011-05-14
+4696862	Hearne	Hearne		30.87852	-96.59303	P	PPL	US		TX	395			4459	90	92	America/Chicago	2011-05-14
+4696876	Heath	Heath		32.83651	-96.47499	P	PPL	US		TX	397			6921	153	157	America/Chicago	2011-05-14
+4696922	Hebbronville	Hebbronville		27.30671	-98.67835	P	PPLA2	US		TX	247			4558	167	173	America/Chicago	2011-05-14
+4696924	Hedwig Village	Hedwig Village		29.77745	-95.51716	P	PPL	US		TX	201			2557	23	31	America/Chicago	2011-05-14
+4696953	Heidelberg	Heidelberg		26.19702	-97.88028	P	PPL	US		TX	215			1725	18	23	America/Chicago	2011-05-14
+4697038	Helotes	Helotes		29.57801	-98.68975	P	PPL	US		TX	029			7341	316	319	America/Chicago	2011-05-14
+4697054	Hemphill	Hemphill		31.34074	-93.84685	P	PPLA2	US		TX	403			1198	85	93	America/Chicago	2011-05-14
+4697060	Hempstead	Hempstead	Khempsted,Хемпстед	30.09744	-96.07829	P	PPLA2	US		TX	473			5770	74	77	America/Chicago	2011-05-14
+4697128	Henrietta	Henrietta		33.81732	-98.19532	P	PPLA2	US		TX	077			3141	278	283	America/Chicago	2011-05-14
+4697330	Hewitt	Hewitt		31.46239	-97.19584	P	PPL	US		TX	309			13549	197	202	America/Chicago	2011-05-14
+4697379	Hickory Creek	Hickory Creek		31.37879	-95.32133	P	PPL	US		TX	225			3066	120	126	America/Chicago	2006-01-17
+4697440	Hico	Hico		31.98293	-98.03365	P	PPL	US		TX	193			1379	313	319	America/Chicago	2011-05-14
+4697442	Hidalgo	Hidalgo		26.10035	-98.26307	P	PPL	US		TX	215			11198	31	36	America/Chicago	2011-05-14
+4697485	Hideaway	Hideaway		32.49042	-95.45746	P	PPL	US		TX	423			3083	137	148	America/Chicago	2011-05-14
+4697616	Highland Park	Highland Park	Khajlend Park,Хайленд Парк	32.83346	-96.79195	P	PPL	US		TX	113			8564	161	169	America/Chicago	2011-05-14
+4697645	Highland Village	Highland Village		33.09179	-97.04668	P	PPL	US		TX	121			15056	169	174	America/Chicago	2011-05-14
+4697652	Highlands	Highlands		29.81884	-95.05604	P	PPL	US		TX	201			7522	11	15	America/Chicago	2011-05-14
+4697867	Hillsboro	Hillsboro	Khillsboro,Хиллсборо	32.01099	-97.13001	P	PPLA2	US		TX	217			8456	193	197	America/Chicago	2011-05-14
+4697909	Hilltop Lakes	Hilltop Lakes		31.07935	-96.20385	P	PPL	US		TX	289			1101	142	146	America/Chicago	2011-05-14
+4697988	Hitchcock	Hitchcock		29.34829	-95.01604	P	PPL	US		TX	167			6961	5	10	America/Chicago	2011-05-14
+4698241	Holiday Lakes	Holiday Lakes		29.20969	-95.51689	P	PPL	US		TX	039			1107	11	15	America/Chicago	2011-05-14
+4698254	Holland	Holland	Gollandija,Голландия	30.87824	-97.40167	P	PPL	US		TX	027			1121	160	163	America/Chicago	2011-05-14
+4698296	Holliday	Holliday		33.81621	-98.69506	P	PPL	US		TX	009			1758	321	325	America/Chicago	2011-05-14
+4698384	Hollywood Park	Hollywood Park		29.6005	-98.48724	P	PPL	US		TX	029			3062	293	301	America/Chicago	2011-05-14
+4698562	Hondo	Hondo		29.34746	-99.14142	P	PPLA2	US		TX	325			8803	272	274	America/Chicago	2011-05-14
+4698610	Honey Grove	Honey Grove		33.58344	-95.90997	P	PPL	US		TX	147			1746	205	209	America/Chicago	2012-05-09
+4698646	Hooks	Hooks		33.46623	-94.28853	P	PPL	US		TX	037			2769	114	116	America/Chicago	2011-05-14
+4698809	Hornsby Bend	Hornsby Bend		30.24743	-97.58333	P	PPL	US		TX	453			6791	135	139	America/Chicago	2011-05-14
+4698864	Horseshoe Bay	Horseshoe Bay		30.54825	-98.3378	P	PPL	US		TX	299			3418	258	262	America/Chicago	2011-05-14
+4699066	Houston	Houston	Chiouston,Gorad Kh'justan,HOU,Hiu-su-tun,Hiustonas,Hiû-sṳ̂-tûn,Hjustona,Hjūstona,Houston,Hustonia,Hyuston,Kh'juston,Khjust"n,Khjuston,hi'ustana,hiws tan,hiyustan,hyuseuteon,hyustan,hyustana,hyusuton,hywstn,hywstn, tksas,hywstwn,xiu si dun,ywstwn,Χιούστον,Горад Х'юстан,Х'юстон,Хьюстон,Хюстън,Хјустон,Հյուսթոն,היוסטן,יוסטון,هيوستن، تكساس,هیوستون,ہسٹن,ہیوسٹن,ह्युस्टन,হিউস্টন,હ્યુસ્ટન,ஹியூஸ்டன்,హ్యూస్టన్,ഹ്യൂസ്റ്റൺ,ฮิวสตัน,ဟူစတန်မြို့,ჰიუსტონი,ሂውስተን,ヒューストン,休斯敦,휴스턴	29.76328	-95.36327	P	PPLA2	US		TX	201			2099451	12	30	America/Chicago	2011-06-16
+4699204	Howe	Howe		33.50872	-96.61221	P	PPL	US		TX	181			2600	256	260	America/Chicago	2011-05-14
+4699235	Hubbard	Hubbard		31.84849	-96.79722	P	PPL	US		TX	217			1423	198	200	America/Chicago	2011-05-14
+4699302	Hudson	Hudson	Gudzon,Гудзон	31.32268	-94.77826	P	PPL	US		TX	005			4731	102	107	America/Chicago	2011-05-14
+4699303	Hudson	Hudson		29.90245	-95.50244	P	PPL	US		TX	201			4058	33	33	America/Chicago	2006-01-17
+4699304	Hudson Bend	Hudson Bend		30.41714	-97.92918	P	PPL	US		TX	453			2981	230	237	America/Chicago	2011-05-14
+4699323	Hudson Oaks	Hudson Oaks		32.75707	-97.7067	P	PPL	US		TX	367			1662	318	320	America/Chicago	2011-05-14
+4699392	Hughes Springs	Hughes Springs		32.99846	-94.63076	P	PPL	US		TX	067			1760	115	118	America/Chicago	2011-05-14
+4699442	Humble	Humble		29.99883	-95.26216	P	PPL	US		TX	201			15133	29	34	America/Chicago	2011-05-14
+4699531	Hunters Creek Village	Hunters Creek Village		29.77051	-95.4955	P	PPL	US		TX	201			4367	20	28	America/Chicago	2011-05-14
+4699533	Huntington	Huntington	Khantington,Хантингтон	31.27769	-94.57659	P	PPL	US		TX	005			2118	99	103	America/Chicago	2011-05-14
+4699540	Huntsville	Huntsville	Khantsvill,Хантсвилл	30.72353	-95.55078	P	PPLA2	US		TX	471			38548	113	116	America/Chicago	2011-05-14
+4699575	Hurst	Hurst	Kherst,Херст	32.82346	-97.17057	P	PPL	US		TX	439			37337	169	174	America/Chicago	2011-05-14
+4699608	Hutchins	Hutchins		32.6493	-96.71305	P	PPL	US		TX	113			5338	142	146	America/Chicago	2011-05-14
+4699626	Hutto	Hutto		30.5427	-97.54667	P	PPL	US		TX	491			14698	202	203	America/Chicago	2011-05-14
+4699938	Indian Hills	Indian Hills		26.21285	-97.91639	P	PPL	US		TX	215			2591	20	26	America/Chicago	2011-05-14
+4700024	Inez	Inez		28.90388	-96.78804	P	PPL	US		TX	469			2098	20	22	America/Chicago	2011-05-14
+4700033	Ingleside	Ingleside		27.8778	-97.21166	P	PPL	US		TX	409			9387	4	7	America/Chicago	2011-05-14
+4700044	Ingram	Ingram		30.07743	-99.24032	P	PPL	US		TX	265			1804	528	528	America/Chicago	2011-05-14
+4700120	Iowa Colony	Iowa Colony		29.48246	-95.4155	P	PPL	US		TX	039			1170	18	20	America/Chicago	2011-05-14
+4700122	Iowa Park	Iowa Park		33.95148	-98.66867	P	PPL	US		TX	485			6355	316	319	America/Chicago	2011-05-14
+4700168	Irving	Irving	Irving,Ирвинг	32.81402	-96.94889	P	PPL	US		TX	113			216290	147	151	America/Chicago	2011-05-14
+4700234	Italy	Italy		32.18404	-96.88472	P	PPL	US		TX	139			1863	174	175	America/Chicago	2011-05-14
+4700235	Itasca	Itasca		32.15959	-97.15001	P	PPL	US		TX	217			1644	214	218	America/Chicago	2011-05-14
+4700401	Jacinto City	Jacinto City		29.76745	-95.23382	P	PPL	US		TX	201			10553	9	11	America/Chicago	2011-05-14
+4700455	Jacksboro	Jacksboro		33.21845	-98.15866	P	PPLA2	US		TX	237			4511	330	336	America/Chicago	2011-05-14
+4700550	Jacksonville	Jacksonville	Dzheksonvill,JKV,Джексонвилл	31.96378	-95.2705	P	PPL	US		TX	073			14544	159	160	America/Chicago	2011-05-14
+4700731	Jasper	Jasper		30.9202	-93.99658	P	PPLA2	US		TX	241			7590	62	65	America/Chicago	2011-05-14
+4700817	Jefferson	Jefferson	Dzhefferson,Джефферсон	32.75736	-94.34519	P	PPLA2	US		TX	315			2106	59	63	America/Chicago	2011-05-14
+4700967	Jersey Village	Jersey Village		29.88772	-95.563	P	PPL	US		TX	201			7620	32	36	America/Chicago	2011-05-14
+4701046	Jewett	Jewett		31.36157	-96.14413	P	PPL	US		TX	289			1167	150	152	America/Chicago	2011-05-14
+4701346	Johnson City	Johnson City	Dzhonson Siti,Джонсон Сити	30.27687	-98.41197	P	PPLA2	US		TX	031			1656	365	369	America/Chicago	2011-05-14
+4701458	Jollyville	Jollyville		30.4427	-97.77501	P	PPL	US		TX	491			16151	286	291	America/Chicago	2011-05-14
+4701510	Jones Creek	Jones Creek		28.96858	-95.45522	P	PPL	US		TX	039			2020	4	8	America/Chicago	2011-05-14
+4701592	Jonestown	Jonestown		30.49547	-97.92335	P	PPL	US		TX	453			1834	248	253	America/Chicago	2011-05-14
+4701659	Joshua	Joshua		32.46153	-97.38807	P	PPL	US		TX	251			5910	283	289	America/Chicago	2011-05-14
+4701686	Jourdanton	Jourdanton		28.91803	-98.54641	P	PPLA2	US		TX	013			3871	140	143	America/Chicago	2011-05-14
+4701791	Junction	Junction		30.48936	-99.77201	P	PPLA2	US		TX	267			2574	519	522	America/Chicago	2011-05-14
+4701814	Justin	Justin		33.08484	-97.29613	P	PPL	US		TX	121			3246	196	200	America/Chicago	2011-05-14
+4702664	Karnes City	Karnes City		28.88498	-97.90084	P	PPLA2	US		TX	255			3042	131	133	America/Chicago	2011-05-14
+4702728	Kaufman	Kaufman		32.58902	-96.30887	P	PPLA2	US		TX	257			6703	140	145	America/Chicago	2011-05-14
+4702732	Katy	Katy		29.78579	-95.8244	P	PPL	US		TX	201			14102	42	44	America/Chicago	2011-05-14
+4702785	Keene	Keene		32.39681	-97.3239	P	PPL	US		TX	251			6106	272	279	America/Chicago	2011-05-14
+4702828	Keller	Keller	Keller,Келлер	32.93457	-97.25168	P	PPL	US		TX	439			39627	216	220	America/Chicago	2011-05-14
+4702913	Kemah	Kemah		29.54273	-95.02048	P	PPL	US		TX	167			1773	2	5	America/Chicago	2011-05-14
+4702914	Kemp	Kemp		32.44264	-96.22998	P	PPL	US		TX	257			1154	116	121	America/Chicago	2011-05-14
+4702965	Kenedy	Kenedy		28.81915	-97.84861	P	PPL	US		TX	255			3296	81	85	America/Chicago	2011-05-14
+4702986	Kennedale	Kennedale		32.6468	-97.22585	P	PPL	US		TX	439			6763	192	197	America/Chicago	2011-05-14
+4702998	Kempner	Kempner		31.08101	-98.00252	P	PPL	US		TX	281			1089	264	269	America/Chicago	2011-05-14
+4703063	Kerens	Kerens		32.13321	-96.22775	P	PPL	US		TX	349			1573	113	115	America/Chicago	2011-05-14
+4703078	Kerrville	Kerrville	ERV	30.04743	-99.14032	P	PPLA2	US		TX	265			22347	499	501	America/Chicago	2011-05-14
+4703199	Kilgore	Kilgore		32.38626	-94.87577	P	PPL	US		TX	183			12975	109	116	America/Chicago	2011-05-14
+4703223	Killeen	Killeen	ILE,Killeen	31.11712	-97.7278	P	PPL	US		TX	027			127921	252	254	America/Chicago	2011-05-14
+4703372	Kingsland	Kingsland		30.65824	-98.44058	P	PPL	US		TX	299			6030	255	258	America/Chicago	2011-05-14
+4703384	Kingsville	Kingsville	NQI	27.51587	-97.85611	P	PPLA2	US		TX	273			26213	18	21	America/Chicago	2011-05-14
+4703415	Kirby	Kirby		29.46329	-98.38557	P	PPL	US		TX	029			8000	209	214	America/Chicago	2011-05-14
+4703438	Kirbyville	Kirbyville		30.66048	-93.89268	P	PPL	US		TX	241			2142	34	40	America/Chicago	2011-05-14
+4703578	Knox City	Knox City		33.41815	-99.81898	P	PPL	US		TX	275			1130	466	467	America/Chicago	2011-05-14
+4703726	Kountze	Kountze		30.3716	-94.31241	P	PPLA2	US		TX	199			2123	26	32	America/Chicago	2011-05-14
+4703759	Krugerville	Krugerville		33.28151	-96.99056	P	PPL	US		TX	121			1662	211	220	America/Chicago	2011-05-14
+4703760	Krum	Krum		33.26151	-97.23807	P	PPL	US		TX	121			4157	225	229	America/Chicago	2011-05-14
+4703811	Kyle	Kyle		29.99835	-97.87153	P	PPL	US		TX	209			28016	222	218	America/Chicago	2011-05-14
+4703882	La Blanca	La Blanca		26.29285	-98.03778	P	PPL	US		TX	215			2488	21	25	America/Chicago	2011-05-14
+4703925	La Coste	La Coste		29.31079	-98.81003	P	PPL	US		TX	325			1119	217	222	America/Chicago	2011-05-14
+4703938	La Feria	La Feria		26.15896	-97.82389	P	PPL	US		TX	061			7302	17	21	America/Chicago	2011-05-14
+4703958	La Grange	La Grange		29.9055	-96.87665	P	PPLA2	US		TX	149			4641	81	83	America/Chicago	2011-05-14
+4703965	La Grulla	La Grulla		26.26951	-98.64725	P	PPL	US		TX	427			1622	43	46	America/Chicago	2011-05-14
+4703972	La Homa	La Homa		26.25007	-98.36363	P	PPL	US		TX	215			11985	50	51	America/Chicago	2011-05-14
+4703997	La Joya	La Joya		26.24702	-98.48141	P	PPL	US		TX	215			3985	53	57	America/Chicago	2011-05-14
+4704027	La Marque	La Marque		29.36857	-94.97131	P	PPL	US		TX	167			14509	5	7	America/Chicago	2011-05-14
+4704067	La Paloma	La Paloma		26.04591	-97.66749	P	PPL	US		TX	061			2903	15	20	America/Chicago	2011-05-14
+4704108	La Porte	La Porte		29.66578	-95.01937	P	PPL	US		TX	201			33800	6	6	America/Chicago	2011-05-14
+4704131	La Pryor	La Pryor		28.94108	-99.84978	P	PPL	US		TX	507			1643	227	228	America/Chicago	2011-05-14
+4704180	La Vernia	La Vernia		29.35635	-98.11556	P	PPL	US		TX	493			1034	149	153	America/Chicago	2011-05-14
+4704188	La Villa	La Villa		26.29868	-97.92861	P	PPL	US		TX	215			1957	17	22	America/Chicago	2011-05-14
+4704238	Lacy-Lakeview	Lacy-Lakeview		31.62933	-97.10278	P	PPL	US		TX	309			6489	148	154	America/Chicago	2011-05-14
+4704276	Lago Vista	Lago Vista		30.4602	-97.98835	P	PPL	US		TX	453			6041	236	245	America/Chicago	2011-05-14
+4704298	Laguna Heights	Laguna Heights		26.08008	-97.25386	P	PPL	US		TX	061			3488	3	6	America/Chicago	2011-05-14
+4704303	Laguna Park	Laguna Park		31.85932	-97.37974	P	PPL	US		TX	035			1276	184	188	America/Chicago	2011-05-14
+4704307	Laguna Vista	Laguna Vista		26.10091	-97.29025	P	PPL	US		TX	061			3117	3	8	America/Chicago	2011-05-14
+4704395	Lake Brownwood	Lake Brownwood		31.8357	-99.00783	P	PPL	US		TX	049			1532	440	446	America/Chicago	2011-05-14
+4704482	Lake Dallas	Lake Dallas		33.11929	-97.02556	P	PPL	US		TX	121			7105	175	181	America/Chicago	2011-05-14
+4704628	Lake Jackson	Lake Jackson		29.03386	-95.43439	P	PPL	US		TX	039			26849	4	11	America/Chicago	2011-05-14
+4704655	Lake Kiowa	Lake Kiowa		33.57705	-97.01306	P	PPL	US		TX	097			1906	216	218	America/Chicago	2011-05-14
+4704829	Lake Dunlap	Lake Dunlap		29.67578	-98.07223	P	PPL	US		TX	187			1934	180	182	America/Chicago	2011-05-14
+4704931	Lake Worth	Lake Worth		32.80485	-97.44502	P	PPL	US		TX	439			4584	196	201	America/Chicago	2011-05-14
+4704940	Lakehills	Lakehills		29.60467	-98.94309	P	PPL	US		TX	019			5150	374	376	America/Chicago	2011-05-14
+4704970	Lakeside	Lakeside		32.82235	-97.49335	P	PPL	US		TX	439			1307	217	226	America/Chicago	2011-05-14
+4705041	Lakeway	Lakeway		30.36377	-97.97959	P	PPL	US		TX	453			11391	251	236	America/Chicago	2011-05-14
+4705176	Lampasas	Lampasas		31.06378	-98.1817	P	PPLA2	US		TX	281			6681	313	315	America/Chicago	2011-05-14
+4705191	Lancaster	Lancaster	Lankaster,Ланкастер	32.59208	-96.75611	P	PPL	US		TX	113			36361	159	161	America/Chicago	2011-05-14
+4705349	Laredo	Laredo	LRD,Laredo,Ларедо	27.50641	-99.50754	P	PPLA2	US		TX	479			236091	126	132	America/Chicago	2011-05-14
+4705417	Las Lomas	Las Lomas		26.36479	-98.7753	P	PPL	US		TX	427			3147	57	59	America/Chicago	2011-05-14
+4705494	Lasara	Lasara		26.46479	-97.91111	P	PPL	US		TX	489			1039	13	17	America/Chicago	2011-05-14
+4705564	Laureles	Laureles		26.10924	-97.49415	P	PPL	US		TX	061			3692	6	10	America/Chicago	2011-05-14
+4705584	Lavon	Lavon		33.02762	-96.43415	P	PPL	US		TX	085			2219	160	163	America/Chicago	2011-05-14
+4705692	League City	League City	League City	29.50745	-95.09493	P	PPL	US		TX	167			83560	6	9	America/Chicago	2011-05-14
+4705702	Leakey	Leakey		29.72884	-99.76145	P	PPLA2	US		TX	385			425	489	494	America/Chicago	2011-05-14
+4705708	Leander	Leander		30.57881	-97.85307	P	PPL	US		TX	491			26521	298	301	America/Chicago	2011-05-14
+4705923	Leon Valley	Leon Valley		29.49523	-98.61863	P	PPL	US		TX	029			10151	252	252	America/Chicago	2011-05-14
+4705943	Leonard	Leonard		33.37955	-96.24748	P	PPL	US		TX	147			1990	219	221	America/Chicago	2011-05-14
+4706057	Lewisville	Lewisville	Lewisville	33.04623	-96.99417	P	PPL	US		TX	121			95290	160	161	America/Chicago	2011-05-14
+4706068	Lexington	Lexington	Leksington,Лексингтон	30.4191	-97.01165	P	PPL	US		TX	287			1177	139	141	America/Chicago	2011-05-14
+4706088	Liberty	Liberty		30.05799	-94.79548	P	PPLA2	US		TX	291			8397	9	13	America/Chicago	2011-05-14
+4706141	Liberty City	Liberty City		32.44543	-94.94855	P	PPL	US		TX	183			2351	119	123	America/Chicago	2011-05-14
+4706386	Lindale	Lindale		32.5157	-95.4094	P	PPL	US		TX	423			4818	168	174	America/Chicago	2011-05-14
+4706404	Linden	Linden	Linden,Линден	33.01235	-94.36547	P	PPLA2	US		TX	067			1988	116	119	America/Chicago	2011-05-14
+4706431	Lindsay	Lindsay		33.63594	-97.22279	P	PPL	US		TX	097			1018	242	244	America/Chicago	2011-05-14
+4706736	Little Elm	Little Elm		33.16262	-96.93751	P	PPL	US		TX	121			25898	166	169	America/Chicago	2011-05-14
+4706919	Little River-Academy	Little River-Academy		30.98629	-97.35861	P	PPL	US		TX	027			1961	148	149	America/Chicago	2011-05-14
+4707055	Live Oak	Live Oak		29.56523	-98.3364	P	PPL	US		TX	029			13131	278	278	America/Chicago	2011-05-14
+4707173	Livingston	Livingston	Livingston,Ливингстон	30.71103	-94.93299	P	PPLA2	US		TX	373			5335	51	58	America/Chicago	2011-05-14
+4707191	Llano	Llano		30.75935	-98.67504	P	PPLA2	US		TX	299			3232	314	316	America/Chicago	2011-05-14
+4707203	Llano Grande	Llano Grande		26.1298	-97.96806	P	PPL	US		TX	215			3008	22	28	America/Chicago	2011-05-14
+4707295	Lockhart	Lockhart		29.88494	-97.67	P	PPLA2	US		TX	055			12698	157	160	America/Chicago	2011-05-14
+4707478	Lone Star	Lone Star		33.78566	-95.38773	P	PPL	US		TX	277			1631	106	158	America/Chicago	2012-05-08
+4707479	Lone Star	Lone Star		32.94402	-94.70715	P	PPL	US		TX	343			1581	106	112	America/Chicago	2011-05-14
+4707814	Longview	Longview	GGG,Longview	32.5007	-94.74049	P	PPLA2	US		TX	183			80455	113	119	America/Chicago	2011-05-14
+4707859	Lopezville	Lopezville		26.23813	-98.15973	P	PPL	US		TX	215			4333	32	36	America/Chicago	2011-05-14
+4707868	Lorena	Lorena		31.38656	-97.21556	P	PPL	US		TX	309			1691	184	190	America/Chicago	2011-05-14
+4707932	Los Fresnos	Los Fresnos		26.07174	-97.47637	P	PPL	US		TX	061			5542	7	12	America/Chicago	2011-05-14
+4707945	Los Indios	Los Indios		26.04924	-97.74499	P	PPL	US		TX	061			1083	17	22	America/Chicago	2011-05-14
+4708016	Lost Creek	Lost Creek		30.29548	-97.84445	P	PPL	US		TX	453			4509	251	257	America/Chicago	2011-05-14
+4708236	Lowry Crossing	Lowry Crossing		33.15484	-96.54721	P	PPL	US		TX	085			1711	156	160	America/Chicago	2011-05-14
+4708255	Lucas	Lucas		33.08429	-96.57666	P	PPL	US		TX	085			5166	173	179	America/Chicago	2011-05-14
+4708308	Lufkin	Lufkin		31.33824	-94.7291	P	PPLA2	US		TX	005			35067	95	99	America/Chicago	2011-05-14
+4708320	Luling	Luling		29.68051	-97.6475	P	PPL	US		TX	055			5411	125	129	America/Chicago	2011-05-14
+4708328	Lumberton	Lumberton		30.26577	-94.19963	P	PPL	US		TX	199			11943	18	18	America/Chicago	2011-05-14
+4708403	Lyford	Lyford		26.41229	-97.78972	P	PPL	US		TX	489			2611	11	15	America/Chicago	2011-05-14
+4708477	Lytle	Lytle		29.23329	-98.79641	P	PPL	US		TX	013			2492	220	223	America/Chicago	2011-05-14
+4708535	Mabank	Mabank		32.36653	-96.10081	P	PPL	US		TX	257			3035	120	123	America/Chicago	2011-05-14
+4708703	Madisonville	Madisonville		30.94991	-95.91162	P	PPLA2	US		TX	313			4396	76	78	America/Chicago	2011-05-14
+4708747	Magnolia	Magnolia		30.20938	-95.75078	P	PPL	US		TX	339			1393	82	84	America/Chicago	2011-05-14
+4708877	Malakoff	Malakoff		32.1696	-96.01247	P	PPL	US		TX	213			2324	114	119	America/Chicago	2011-05-14
+4708936	Manchaca	Manchaca		30.14077	-97.83306	P	PPL	US		TX	453			1133	214	220	America/Chicago	2011-05-14
+4708989	Manor	Manor		30.34076	-97.55695	P	PPL	US		TX	453			5037	162	165	America/Chicago	2011-05-14
+4709013	Mansfield	Mansfield	Mehnsfild,Мэнсфилд	32.56319	-97.14168	P	PPL	US		TX	439			56368	184	188	America/Chicago	2011-05-14
+4709027	Manvel	Manvel		29.46274	-95.35799	P	PPL	US		TX	039			5179	16	21	America/Chicago	2011-05-14
+4709090	Marble Falls	Marble Falls		30.57824	-98.2728	P	PPL	US		TX	053			6077	251	254	America/Chicago	2011-05-14
+4709161	Marion	Marion	Mehrion,Мэрион	29.57134	-98.14029	P	PPL	US		TX	187			1066	197	199	America/Chicago	2011-05-14
+4709193	Markham	Markham		28.96026	-96.06524	P	PPL	US		TX	321			1082	17	20	America/Chicago	2011-05-14
+4709215	Marlin	Marlin		31.30629	-96.89804	P	PPLA2	US		TX	145			5967	119	126	America/Chicago	2011-05-14
+4709272	Marshall	Marshall	ASL,Marshall,ma xie er,marshal,masharu,Маршалл,مارشال,マーシャル,马歇尔	32.54487	-94.36742	P	PPLA2	US		TX	203			23523	126	129	America/Chicago	2011-05-14
+4709320	Mart	Mart		31.54239	-96.8336	P	PPL	US		TX	309			2209	160	164	America/Chicago	2011-05-14
+4709410	Martindale	Martindale		29.8455	-97.84084	P	PPL	US		TX	055			1116	160	166	America/Chicago	2011-05-14
+4709501	Mason	Mason	Mejson,Мейсон	30.74879	-99.23061	P	PPLA2	US		TX	319			2114	469	472	America/Chicago	2011-05-14
+4709615	Mathis	Mathis		28.09446	-97.82805	P	PPL	US		TX	409			4942	49	53	America/Chicago	2011-05-14
+4709652	Maud	Maud		33.3329	-94.3427	P	PPL	US		TX	037			1056	88	93	America/Chicago	2011-05-14
+4709663	Mauriceville	Mauriceville		30.20354	-93.86628	P	PPL	US		TX	361			3252	8	13	America/Chicago	2011-05-14
+4709796	McAllen	McAllen	McAllen	26.20341	-98.23001	P	PPL	US		TX	215			129877	37	42	America/Chicago	2011-05-14
+4710129	McGregor	McGregor		31.44406	-97.40918	P	PPL	US		TX	309			4987	211	218	America/Chicago	2011-05-14
+4710178	McKinney	McKinney	McKinney	33.19762	-96.61527	P	PPLA2	US		TX	085			131117	192	197	America/Chicago	2011-05-14
+4710227	McLendon-Chisholm	McLendon-Chisholm		32.84235	-96.38054	P	PPL	US		TX	397			1373	154	158	America/Chicago	2011-05-14
+4710317	McQueeney	McQueeney		29.59217	-98.03334	P	PPL	US		TX	187			2545	167	169	America/Chicago	2011-05-14
+4710414	Meadowlakes	Meadowlakes		30.56241	-98.29641	P	PPL	US		TX	053			1777	245	247	America/Chicago	2011-05-14
+4710433	Meadows Place	Meadows Place		29.65134	-95.588	P	PPL	US		TX	157			4660	26	27	America/Chicago	2011-05-14
+4710484	Medina	Medina	Medina,Медина	29.79661	-99.24643	P	PPL	US		TX	019			3247	441	445	America/Chicago	2010-01-29
+4710485	Medina	Medina		26.92115	-99.25948	P	PPL	US		TX	505			3935	121	123	America/Chicago	2011-05-14
+4710574	Melissa	Melissa		33.28595	-96.57277	P	PPL	US		TX	085			4695	207	211	America/Chicago	2011-05-14
+4710697	Menard	Menard		30.91767	-99.78646	P	PPLA2	US		TX	327			1471	574	576	America/Chicago	2011-05-14
+4710749	Mercedes	Mercedes		26.1498	-97.91361	P	PPL	US		TX	215			15570	21	26	America/Chicago	2011-05-14
+4710782	Meridian	Meridian	Meridian,Меридиан	31.92321	-97.65669	P	PPLA2	US		TX	035			1493	232	236	America/Chicago	2011-05-14
+4710826	Mesquite	Mesquite	Mesquite	32.7668	-96.59916	P	PPL	US		TX	113			139824	151	155	America/Chicago	2011-05-14
+4710963	Mexia	Mexia		31.67989	-96.4822	P	PPL	US		TX	293			7459	159	164	America/Chicago	2011-05-14
+4711156	Midlothian	Midlothian	Midlothian	32.48236	-96.99445	P	PPL	US		TX	139			18037	230	233	America/Chicago	2011-10-14
+4711212	Midway North	Midway North		26.18776	-98.01708	P	PPL	US		TX	215			4752	24	27	America/Chicago	2011-05-14
+4711221	Midway South	Midway South		26.15694	-98.02011	P	PPL	US		TX	215			2239	24	26	America/Chicago	2011-05-14
+4711253	Mila Doce	Mila Doce		26.22618	-97.95889	P	PPL	US		TX	215			6222	18	23	America/Chicago	2011-05-14
+4711255	Milam	Milam		31.4324	-93.84574	P	PPL	US		TX	403			1480	95	100	America/Chicago	2011-05-14
+4711628	Mineola	Mineola		32.66319	-95.48829	P	PPL	US		TX	499			4515	127	131	America/Chicago	2011-05-14
+4711647	Mineral Wells	Mineral Wells	MWL	32.80846	-98.11282	P	PPL	US		TX	363			16788	269	273	America/Chicago	2011-05-14
+4711725	Mission	Mission	Missija,Mission,Миссия	26.21591	-98.32529	P	PPL	US		TX	215			77058	43	47	America/Chicago	2011-05-14
+4711729	Mission Bend	Mission Bend		29.69384	-95.66495	P	PPL	US		TX	157			36501	29	30	America/Chicago	2011-05-14
+4711801	Missouri City	Missouri City	Missouri City	29.61857	-95.53772	P	PPL	US		TX	157			67358	24	26	America/Chicago	2011-05-14
+4711967	Mont Belvieu	Mont Belvieu		29.84772	-94.89076	P	PPL	US		TX	071			3835	21	24	America/Chicago	2011-05-14
+4711972	Montague	Montague		33.66483	-97.72059	P	PPLA2	US		TX	337			304	327	331	America/Chicago	2011-05-14
+4711991	Monte Alto	Monte Alto		26.37312	-97.97167	P	PPL	US		TX	215			1924	16	22	America/Chicago	2011-05-14
+4712097	Moody	Moody		31.30823	-97.3614	P	PPL	US		TX	309			1371	238	243	America/Chicago	2011-05-14
+4712319	Morgans Point Resort	Morgans Point Resort		31.14823	-97.46334	P	PPL	US		TX	027			4170	209	215	America/Chicago	2011-05-14
+4712933	Mount Pleasant	Mount Pleasant		33.15679	-94.96827	P	PPLA2	US		TX	449			15564	123	126	America/Chicago	2011-05-14
+4713032	Mount Vernon	Mount Vernon		33.18873	-95.22133	P	PPLA2	US		TX	159			2662	150	154	America/Chicago	2011-05-14
+4713351	Muenster	Muenster		33.65177	-97.37641	P	PPL	US		TX	097			1544	305	308	America/Chicago	2011-05-14
+4713452	Munday	Munday		33.44926	-99.62286	P	PPL	US		TX	275			1300	451	455	America/Chicago	2011-05-14
+4713474	Muniz	Muniz		26.25646	-98.08945	P	PPL	US		TX	215			1370	27	30	America/Chicago	2011-05-14
+4713506	Murillo Colonia	Murillo Colonia	Nurillo	26.25646	-98.11334	P	PPL	US		TX	215			7344	29	33	America/Chicago	2011-05-15
+4713507	Murphy	Murphy		33.01512	-96.61305	P	PPL	US		TX	085			17708	177	177	America/Chicago	2011-05-14
+4713735	Nacogdoches	Nacogdoches	OCH	31.60351	-94.65549	P	PPLA2	US		TX	347			32996	92	95	America/Chicago	2011-05-14
+4713782	Naples	Naples	Neapol',Неаполь	33.20318	-94.68021	P	PPL	US		TX	343			1378	124	128	America/Chicago	2011-05-14
+4713800	Nash	Nash		33.44235	-94.13075	P	PPL	US		TX	037			2960	107	112	America/Chicago	2011-05-14
+4713805	Nash	Nash		32.2657	-96.81277	P	PPL	US		TX	139			2177	159	164	America/Chicago	2006-01-17
+4713813	Nassau Bay	Nassau Bay		29.54468	-95.09104	P	PPL	US		TX	201			4002	5	8	America/Chicago	2011-05-14
+4713866	Navasota	Navasota		30.38798	-96.08773	P	PPL	US		TX	185			7049	66	70	America/Chicago	2011-05-14
+4713932	Nederland	Nederland		29.97438	-93.9924	P	PPL	US		TX	245			17547	5	7	America/Chicago	2011-05-14
+4713946	Needville	Needville		29.39941	-95.83773	P	PPL	US		TX	157			2823	28	31	America/Chicago	2011-05-14
+4714126	New Boston	New Boston		33.45984	-94.41548	P	PPLA2	US		TX	037			4550	109	111	America/Chicago	2011-05-14
+4714131	New Braunfels	New Braunfels		29.703	-98.12445	P	PPLA2	US		TX	091			57740	192	194	America/Chicago	2011-05-14
+4714570	New Summerfield	New Summerfield		31.98072	-95.09383	P	PPL	US		TX	073			1111	144	148	America/Chicago	2011-05-14
+4714582	New Territory	New Territory		29.59412	-95.68078	P	PPL	US		TX	157			15186	23	26	America/Chicago	2011-05-14
+4714603	New Waverly	New Waverly		30.5377	-95.48328	P	PPL	US		TX	471			1032	108	111	America/Chicago	2011-05-14
+4714660	Newark	Newark	N'juark,Ньюарк	33.00124	-97.48447	P	PPL	US		TX	497			1005	212	216	America/Chicago	2011-05-14
+4714713	Newton	Newton	N'juton,Ньютон	30.84853	-93.7574	P	PPLA2	US		TX	351			2478	59	62	America/Chicago	2011-05-14
+4714829	Nixon	Nixon		29.26746	-97.76444	P	PPL	US		TX	177			2385	119	124	America/Chicago	2011-05-14
+4714865	Nocona	Nocona		33.78677	-97.72586	P	PPL	US		TX	337			3033	299	303	America/Chicago	2011-05-14
+4714895	Nolanville	Nolanville		31.07879	-97.60557	P	PPL	US		TX	027			4259	216	221	America/Chicago	2011-05-14
+4714990	North Alamo	North Alamo		26.2173	-98.1289	P	PPL	US		TX	215			3235	30	34	America/Chicago	2011-05-14
+4715292	North Richland Hills	North Richland Hills		32.8343	-97.2289	P	PPL	US		TX	439			63343	184	188	America/Chicago	2011-05-14
+4715410	Northcliff	Northcliff		29.62106	-98.22473	P	PPL	US		TX	187			1996	252	253	America/Chicago	2006-01-17
+4715411	Northcrest	Northcrest		31.63655	-97.09972	P	PPL	US		TX	309			1785	150	154	America/Chicago	2006-01-15
+4715447	Northlake	Northlake		33.12734	-97.26557	P	PPL	US		TX	121			1724	210	212	America/Chicago	2011-05-14
+4715696	Nurillo	Nurillo		26.26702	-98.1214	P	PPL	US		TX	215			5547	29	31	America/Chicago	2006-01-17
+4715915	Oak Leaf	Oak Leaf		32.52042	-96.85472	P	PPL	US		TX	139			1298	184	187	America/Chicago	2011-05-14
+4715931	Oak Point	Oak Point		33.19012	-96.99167	P	PPL	US		TX	121			2786	183	186	America/Chicago	2011-05-14
+4715944	Oak Ridge North	Oak Ridge North		30.16022	-95.44438	P	PPL	US		TX	339			3049	42	49	America/Chicago	2011-05-14
+4715957	Oak Trail Shores	Oak Trail Shores		32.48875	-97.8342	P	PPL	US		TX	221			2755	247	253	America/Chicago	2011-05-14
+4716128	Odem	Odem		27.95057	-97.58222	P	PPL	US		TX	409			2389	22	27	America/Chicago	2011-05-14
+4716479	Old River-Winfree	Old River-Winfree		29.86828	-94.8327	P	PPL	US		TX	071			1245	11	15	America/Chicago	2011-05-14
+4716599	Olivarez	Olivarez		26.22841	-97.99223	P	PPL	US		TX	215			3827	20	27	America/Chicago	2011-05-14
+4716655	Olmito	Olmito		26.02174	-97.53415	P	PPL	US		TX	061			1210	9	14	America/Chicago	2011-05-14
+4716676	Olmos Park	Olmos Park		29.47884	-98.48752	P	PPL	US		TX	029			2237	246	248	America/Chicago	2011-05-14
+4716683	Olney	Olney	Olni,Олни	33.37066	-98.75284	P	PPL	US		TX	503			3285	361	367	America/Chicago	2011-05-14
+4716696	Omaha	Omaha	Omakha,Омаха	33.18068	-94.7441	P	PPL	US		TX	343			1021	122	127	America/Chicago	2011-05-14
+4716701	Onalaska	Onalaska		30.80575	-95.11633	P	PPL	US		TX	373			1764	54	60	America/Chicago	2011-05-14
+4716734	Onion Creek	Onion Creek		30.1366	-97.78417	P	PPL	US		TX	453			2116	175	184	America/Chicago	2006-01-15
+4716805	Orange	Orange		30.09299	-93.73655	P	PPLA2	US		TX	361			18595	2	7	America/Chicago	2011-05-14
+4716812	Orange Grove	Orange Grove		27.95668	-97.93694	P	PPL	US		TX	249			1318	59	62	America/Chicago	2011-05-14
+4716833	Ore City	Ore City		32.80014	-94.72076	P	PPL	US		TX	459			1144	100	104	America/Chicago	2011-05-14
+4716998	Overton	Overton		32.2746	-94.97855	P	PPL	US		TX	401			2554	153	155	America/Chicago	2011-05-14
+4717006	Ovilla	Ovilla		32.52653	-96.88639	P	PPL	US		TX	139			3492	186	193	America/Chicago	2011-05-14
+4717084	Oyster Creek	Oyster Creek		29.00302	-95.33188	P	PPL	US		TX	039			1111	2	7	America/Chicago	2011-05-14
+4717199	Paint Rock	Paint Rock		31.50849	-99.92008	P	PPLA2	US		TX	095			273	497	499	America/Chicago	2011-05-14
+4717218	Palacios	Palacios	PSX	28.70805	-96.21747	P	PPL	US		TX	321			4718	4	7	America/Chicago	2011-05-14
+4717232	Palestine	Palestine		31.76212	-95.63079	P	PPLA2	US		TX	001			18712	147	150	America/Chicago	2011-05-14
+4717275	Palm Valley	Palm Valley		26.20174	-97.75416	P	PPL	US		TX	061			1304	13	16	America/Chicago	2011-05-14
+4717283	Palmer	Palmer		32.43125	-96.66777	P	PPL	US		TX	139			2000	141	144	America/Chicago	2011-05-14
+4717326	Palmhurst	Palmhurst		26.25841	-98.31807	P	PPL	US		TX	215			2607	49	52	America/Chicago	2011-05-14
+4717339	Palmview	Palmview		26.23341	-98.37085	P	PPL	US		TX	215			5460	45	49	America/Chicago	2011-05-14
+4717341	Palmview South	Palmview South		26.21563	-98.37863	P	PPL	US		TX	215			5575	42	44	America/Chicago	2011-05-14
+4717376	Palo Pinto	Palo Pinto		32.76735	-98.29866	P	PPLA2	US		TX	363			333	318	323	America/Chicago	2011-05-14
+4717446	Panorama Village	Panorama Village		30.38104	-95.49355	P	PPL	US		TX	339			2170	93	101	America/Chicago	2011-05-14
+4717448	Pantego	Pantego		32.7143	-97.1564	P	PPL	US		TX	439			2394	174	177	America/Chicago	2011-05-14
+4717560	Paris	Paris	PRX,Parizh,Париж	33.66094	-95.55551	P	PPLA2	US		TX	277			25171	183	190	America/Chicago	2011-05-14
+4717624	Parker	Parker	Parker,Паркер	33.0554	-96.62194	P	PPL	US		TX	085			3811	184	187	America/Chicago	2011-05-14
+4717782	Pasadena	Pasadena	Pasadena,Пасадена	29.69106	-95.2091	P	PPL	US		TX	201			149043	9	12	America/Chicago	2011-05-14
+4717929	Patton Village	Patton Village		30.19299	-95.16882	P	PPL	US		TX	339			1557	27	33	America/Chicago	2011-05-14
+4718097	Pearland	Pearland		29.56357	-95.28605	P	PPL	US		TX	039			91252	15	17	America/Chicago	2011-05-14
+4718107	Pearsall	Pearsall		28.89219	-99.09503	P	PPLA2	US		TX	163			9146	193	193	America/Chicago	2011-05-14
+4718153	Pecan Acres	Pecan Acres		32.97013	-97.47474	P	PPL	US		TX	439			4099	217	226	America/Chicago	2011-05-14
+4718209	Pecan Grove	Pecan Grove		29.62607	-95.73162	P	PPL	US		TX	157			15963	25	29	America/Chicago	2011-05-14
+4718236	Pecan Plantation	Pecan Plantation		32.36042	-97.67558	P	PPL	US		TX	221			5294	219	224	America/Chicago	2011-05-14
+4718330	Pelican Bay	Pelican Bay		32.92096	-97.51836	P	PPL	US		TX	439			1547	213	219	America/Chicago	2011-05-14
+4718381	Penitas	Penitas		26.23063	-98.44474	P	PPL	US		TX	215			4403	44	48	America/Chicago	2011-05-14
+4718491	Perezville	Perezville		26.22452	-98.40057	P	PPL	US		TX	215			5376	40	41	America/Chicago	2011-05-14
+4718711	Pflugerville	Pflugerville		30.43937	-97.62	P	PPL	US		TX	453			46936	219	224	America/Chicago	2011-05-14
+4718721	Pharr	Pharr	Farra,Фарра	26.1948	-98.18362	P	PPL	US		TX	215			70400	34	38	America/Chicago	2011-05-14
+4719021	Pilot Point	Pilot Point		33.3965	-96.96056	P	PPL	US		TX	121			3856	220	223	America/Chicago	2011-05-14
+4719246	Pinehurst	Pinehurst		30.17105	-95.68245	P	PPL	US		TX	339			4624	68	69	America/Chicago	2011-05-14
+4719247	Pinehurst	Pinehurst		30.10715	-93.77461	P	PPL	US		TX	361			2097	4	7	America/Chicago	2011-05-14
+4719261	Pinewood Estates	Pinewood Estates		30.16438	-94.32158	P	PPL	US		TX	199			1678	8	22	America/Chicago	2011-05-14
+4719310	Piney Point Village	Piney Point Village		29.75995	-95.51716	P	PPL	US		TX	201			3125	22	28	America/Chicago	2011-05-14
+4719416	Pittsburg	Pittsburg	Pitsburg,Питсбург	32.9954	-94.96577	P	PPLA2	US		TX	063			4497	120	122	America/Chicago	2011-05-14
+4719457	Plano	Plano	Planom,Планом	33.01984	-96.69889	P	PPL	US		TX	085			259841	203	207	America/Chicago	2011-05-14
+4719481	Pleak	Pleak		29.48913	-95.80773	P	PPL	US		TX	157			1044	26	29	America/Chicago	2011-05-14
+4719720	Pleasanton	Pleasanton	Plezantun,Плезантън	28.96719	-98.47863	P	PPL	US		TX	013			8934	110	115	America/Chicago	2011-05-14
+4719781	Plum Grove	Plum Grove		32.1957	-96.98945	P	PPL	US		TX	139			1027	220	230	America/Chicago	2006-01-17
+4719966	Ponder	Ponder		33.1829	-97.28724	P	PPL	US		TX	121			1395	223	227	America/Chicago	2011-05-14
+4720036	Port Aransas	Port Aransas		27.83392	-97.0611	P	PPL	US		TX	355			3480	2	6	America/Chicago	2011-05-14
+4720039	Port Arthur	Port Arthur	Port-Artur,Порт-Артур	29.89883	-93.92878	P	PPL	US		TX	245			53818	2	6	America/Chicago	2011-05-14
+4720060	Port Isabel	Port Isabel		26.07341	-97.20858	P	PPL	US		TX	061			5006	2	8	America/Chicago	2011-05-14
+4720067	Port Lavaca	Port Lavaca		28.615	-96.62609	P	PPLA2	US		TX	057			12248	4	10	America/Chicago	2011-05-14
+4720072	Port Neches	Port Neches		29.99132	-93.95851	P	PPL	US		TX	245			13040	5	8	America/Chicago	2011-05-14
+4720080	Port O'Connor	Port O'Connor		28.44834	-96.40581	P	PPL	US		TX	057			1253	1	6	America/Chicago	2011-05-14
+4720105	Porter Heights	Porter Heights		30.15188	-95.32188	P	PPL	US		TX	339			1653	38	40	America/Chicago	2011-05-14
+4720131	Portland	Portland	Portlend,Портленд	27.87725	-97.32388	P	PPL	US		TX	409			15099	13	11	America/Chicago	2011-05-14
+4720270	Poteet	Poteet		29.04052	-98.56807	P	PPL	US		TX	013			3260	136	139	America/Chicago	2011-05-14
+4720272	Poth	Poth		29.06969	-98.08195	P	PPL	US		TX	493			1908	123	125	America/Chicago	2011-05-14
+4720275	Potosi	Potosi		32.3293	-99.65647	P	PPL	US		TX	441			2991	555	557	America/Chicago	2011-05-14
+4720314	Pottsboro	Pottsboro		33.75927	-96.66944	P	PPL	US		TX	181			2160	232	238	America/Chicago	2011-05-14
+4720327	Powderly	Powderly		33.81122	-95.5244	P	PPL	US		TX	277			1178	161	166	America/Chicago	2011-05-14
+4720493	Prairie View	Prairie View		30.09327	-95.98773	P	PPL	US		TX	473			5576	82	91	America/Chicago	2011-05-14
+4720529	Premont	Premont		27.36059	-98.12362	P	PPL	US		TX	249			2653	50	55	America/Chicago	2011-05-14
+4720583	Preston	Preston		33.88232	-96.63305	P	PPL	US		TX	181			2096	204	213	America/Chicago	2011-05-14
+4720672	Primera	Primera		26.22591	-97.75805	P	PPL	US		TX	061			4070	13	18	America/Chicago	2011-05-14
+4720743	Princeton	Princeton	Prinston,Принстон	33.18012	-96.49804	P	PPL	US		TX	085			6807	175	178	America/Chicago	2011-05-14
+4720789	Progreso	Progreso		26.0923	-97.95722	P	PPL	US		TX	215			5507	21	27	America/Chicago	2011-05-14
+4720833	Prosper	Prosper		33.23623	-96.80111	P	PPL	US		TX	085			9423	208	215	America/Chicago	2011-05-14
+4721023	Quanah	Quanah		34.29786	-99.74037	P	PPLA2	US		TX	197			2641	479	486	America/Chicago	2011-05-14
+4721041	Queen City	Queen City		33.14874	-94.15019	P	PPL	US		TX	067			1476	109	112	America/Chicago	2011-05-14
+4721089	Quinlan	Quinlan		32.9104	-96.13553	P	PPL	US		TX	231			1394	156	161	America/Chicago	2011-05-14
+4721115	Quitman	Quitman		32.79596	-95.45106	P	PPLA2	US		TX	499			1809	126	128	America/Chicago	2011-05-14
+4721416	Rancho Alegre	Rancho Alegre		27.74169	-98.09473	P	PPL	US		TX	249			1704	66	72	America/Chicago	2011-05-14
+4721444	Rancho Viejo	Rancho Viejo		26.03952	-97.55638	P	PPL	US		TX	061			2437	9	16	America/Chicago	2011-05-14
+4721504	Ranger	Ranger		32.46985	-98.67895	P	PPL	US		TX	133			2468	438	443	America/Chicago	2011-05-14
+4721703	Raymondville	Raymondville		26.48146	-97.78305	P	PPLA2	US		TX	489			11284	9	17	America/Chicago	2011-05-14
+4721912	Red Lick	Red Lick		33.46485	-94.17103	P	PPL	US		TX	037			1008	110	113	America/Chicago	2011-05-14
+4721921	Red Oak	Red Oak		32.51764	-96.80444	P	PPL	US		TX	139			10769	185	190	America/Chicago	2011-05-14
+4722038	Redland	Redland		31.40435	-94.72132	P	PPL	US		TX	005			1047	104	111	America/Chicago	2011-05-14
+4722062	Redwater	Redwater		33.35818	-94.25436	P	PPL	US		TX	037			1057	90	94	America/Chicago	2011-05-14
+4722065	Redwood	Redwood		29.81022	-97.91139	P	PPL	US		TX	187			4338	169	171	America/Chicago	2011-05-14
+4722145	Refugio	Refugio	RFG	28.30528	-97.27527	P	PPLA2	US		TX	391			2890	14	17	America/Chicago	2011-05-14
+4722231	Rendon	Rendon		32.57625	-97.2414	P	PPL	US		TX	439			12552	224	226	America/Chicago	2011-05-14
+4722241	Reno	Reno	Rino,Рино	33.66316	-95.46245	P	PPL	US		TX	277			3166	171	175	America/Chicago	2011-05-14
+4722242	Reno	Reno	Rino,Рино	32.94429	-97.57725	P	PPL	US		TX	367			2494	222	227	America/Chicago	2011-05-14
+4722533	Rhome	Rhome		33.05346	-97.47197	P	PPL	US		TX	497			1522	287	290	America/Chicago	2011-05-14
+4722542	Ricardo	Ricardo		27.42143	-97.85111	P	PPL	US		TX	273			1048	16	22	America/Chicago	2011-05-14
+4722625	Richardson	Richardson	Richardson,Ричардсон	32.94818	-96.72972	P	PPL	US		TX	113			99223	192	195	America/Chicago	2011-05-14
+4722668	Richland Hills	Richland Hills		32.81596	-97.22807	P	PPL	US		TX	439			7801	173	178	America/Chicago	2011-05-14
+4722684	Richmond	Richmond	Richmond,Ричмонд	29.58218	-95.76078	P	PPLA2	US		TX	157			11679	28	31	America/Chicago	2011-05-14
+4722697	Richwood	Richwood		29.05608	-95.40994	P	PPL	US		TX	039			3510	5	11	America/Chicago	2011-05-14
+4722757	Riesel	Riesel		31.47489	-96.92333	P	PPL	US		TX	309			1007	154	158	America/Chicago	2011-05-14
+4722831	Rio Bravo	Rio Bravo		27.36419	-99.48004	P	PPL	US		TX	479			4794	124	125	America/Chicago	2011-05-14
+4722837	Rio Grande City	Rio Grande City		26.37979	-98.8203	P	PPLA2	US		TX	427			13834	53	57	America/Chicago	2011-05-14
+4722843	Rio Hondo	Rio Hondo		26.23535	-97.58193	P	PPL	US		TX	061			2356	8	14	America/Chicago	2011-05-14
+4722925	River Oaks	River Oaks		32.77707	-97.39446	P	PPL	US		TX	439			7427	183	186	America/Chicago	2011-05-14
+4723024	Roanoke	Roanoke		33.00401	-97.22585	P	PPL	US		TX	121			5962	193	198	America/Chicago	2011-05-14
+4723165	Robinson	Robinson		31.46767	-97.11472	P	PPL	US		TX	309			10509	151	155	America/Chicago	2011-05-14
+4723212	Robstown	Robstown		27.7903	-97.66888	P	PPL	US		TX	355			11487	22	26	America/Chicago	2011-05-14
+4723369	Rockdale	Rockdale		30.65548	-97.00137	P	PPL	US		TX	331			5595	142	146	America/Chicago	2011-05-14
+4723406	Rockwall	Rockwall		32.93123	-96.45971	P	PPLA2	US		TX	397			37490	180	184	America/Chicago	2011-05-14
+4723422	Rockport	Rockport	RKP	28.02057	-97.05443	P	PPLA2	US		TX	007			8766	2	4	America/Chicago	2011-05-14
+4723670	Rogers	Rogers	Rodzhers,Роджерс	30.93157	-97.22666	P	PPL	US		TX	027			1218	166	169	America/Chicago	2011-05-14
+4723734	Rollingwood	Rollingwood		30.27687	-97.79112	P	PPL	US		TX	453			1412	197	203	America/Chicago	2011-05-14
+4723755	Roman Forest	Roman Forest		30.1791	-95.16243	P	PPL	US		TX	339			1538	32	38	America/Chicago	2011-05-14
+4723763	Roma-Los Saenz	Roma-Los Saenz		26.40506	-99.01586	P	PPL	US		TX	427			9765	65	67	America/Chicago	2011-05-14
+4723869	Rosebud	Rosebud		31.07296	-96.9786	P	PPL	US		TX	145			1412	121	126	America/Chicago	2011-05-14
+4723914	Rosenberg	Rosenberg	Rozenberg,Розенберг	29.55718	-95.80856	P	PPL	US		TX	157			30618	32	35	America/Chicago	2011-05-14
+4723944	Rosharon	Rosharon		29.35218	-95.46022	P	PPL	US		TX	039			1152	15	20	America/Chicago	2011-05-14
+4724129	Round Rock	Round Rock	Round Rock	30.50826	-97.6789	P	PPL	US		TX	491			99887	224	226	America/Chicago	2011-05-14
+4724194	Rowlett	Rowlett		32.9029	-96.56388	P	PPL	US		TX	113			56199	154	155	America/Chicago	2011-05-14
+4724241	Royse City	Royse City		32.97512	-96.33248	P	PPL	US		TX	397			9349	169	173	America/Chicago	2011-05-14
+4724298	Runaway Bay	Runaway Bay		33.16789	-97.87837	P	PPL	US		TX	497			1286	278	283	America/Chicago	2011-05-14
+4724309	Runge	Runge		28.88331	-97.71305	P	PPL	US		TX	255			1031	94	97	America/Chicago	2011-05-14
+4724359	Rusk	Rusk		31.79601	-95.15022	P	PPLA2	US		TX	073			5551	158	164	America/Chicago	2011-05-14
+4724530	Sabinal	Sabinal		29.31746	-99.46644	P	PPL	US		TX	463			1695	292	295	America/Chicago	2011-05-14
+4724564	Sachse	Sachse		32.97623	-96.59527	P	PPL	US		TX	113			20329	167	169	America/Chicago	2011-05-14
+4724642	Saginaw	Saginaw		32.86013	-97.36391	P	PPL	US		TX	439			19806	222	227	America/Chicago	2011-05-14
+4724892	Saint Hedwig	Saint Hedwig		29.4144	-98.20001	P	PPL	US		TX	029			2094	176	181	America/Chicago	2011-05-14
+4724966	Saint Jo	Saint Jo		33.69483	-97.52252	P	PPL	US		TX	337			1043	348	353	America/Chicago	2011-05-14
+4725484	Saint Paul	Saint Paul		33.04123	-96.55027	P	PPL	US		TX	085			1066	172	176	America/Chicago	2011-05-14
+4725807	Salado	Salado		30.94713	-97.53862	P	PPL	US		TX	027			2126	183	193	America/Chicago	2011-05-14
+4726133	Sam Rayburn	Sam Rayburn		31.06408	-94.03574	P	PPL	US		TX	241			1181	61	67	America/Chicago	2011-05-14
+4726206	San Antonio	San Antonio	SAT,San Antonijas,San Antonio,San-Antonio,Sanantonio,Sanctus Antonius,can antoniyo,saen-antonio,san antwnyw, tksas,san'antonio,sena amtoniyo,sheng an dong ni ao,sn ʼntwnyw,Σαν Αντόνιο,Сан Антонио,Сан-Антонио,Сан-Антоніо,Սան Անտոնիո,סן אנטוניו,سان أنطونيو، تكساس,سان انٹونیو,سن‌آنتونیو,सॅन अँटोनियो,சான் அன்டோனியோ,แซนแอนโทนีโอ,სან-ანტონიო,サンアントニオ,圣安东尼奥,샌안토니오	29.42412	-98.49363	P	PPLA2	US		TX	029			1327407	198	202	America/Chicago	2012-02-20
+4726256	San Augustine	San Augustine		31.5299	-94.10603	P	PPLA2	US		TX	405			2108	113	121	America/Chicago	2011-05-14
+4726290	San Benito	San Benito		26.13258	-97.6311	P	PPL	US		TX	061			24250	11	16	America/Chicago	2011-05-14
+4726293	San Carlos	San Carlos	San - Karlos,Сан - Карлос	26.29563	-98.07195	P	PPL	US		TX	215			3130	23	27	America/Chicago	2011-05-14
+4726311	San Diego	San Diego	San-Diego,Сан-Диего	27.76391	-98.2389	P	PPLA2	US		TX	131			4488	94	96	America/Chicago	2011-05-14
+4726440	San Juan	San Juan		26.18924	-98.15529	P	PPL	US		TX	215			33856	33	36	America/Chicago	2011-05-14
+4726477	San Leon	San Leon		29.48329	-94.92215	P	PPL	US		TX	167			4970	3	6	America/Chicago	2011-05-14
+4726491	San Marcos	San Marcos		29.88327	-97.94139	P	PPLA2	US		TX	209			44894	188	194	America/Chicago	2011-05-14
+4726582	San Saba	San Saba		31.19572	-98.7181	P	PPLA2	US		TX	411			3099	367	373	America/Chicago	2011-05-14
+4726957	Sanger	Sanger		33.36317	-97.1739	P	PPL	US		TX	121			6916	206	209	America/Chicago	2011-05-14
+4726971	Sansom Park	Sansom Park		32.80596	-97.40307	P	PPL	US		TX	439			4686	229	236	America/Chicago	2011-05-14
+4726982	Santa Anna	Santa Anna		31.74209	-99.32173	P	PPL	US		TX	083			1099	535	540	America/Chicago	2011-05-14
+4727022	Santa Fe	Santa Fe	Santa-Fe,Санта-Фе	29.37801	-95.10576	P	PPL	US		TX	167			12222	9	13	America/Chicago	2011-05-14
+4727076	Santa Rosa	Santa Rosa	Santa-Rosa,Санта-Роса	26.25674	-97.825	P	PPL	US		TX	061			2873	15	20	America/Chicago	2011-05-14
+4727159	Sarita	Sarita		27.22171	-97.78916	P	PPLA2	US		TX	261			238	11	13	America/Chicago	2011-05-14
+4727290	Scenic Oaks	Scenic Oaks		29.71078	-98.67586	P	PPL	US		TX	029			4957	404	411	America/Chicago	2011-05-14
+4727326	Schertz	Schertz		29.55217	-98.26973	P	PPL	US		TX	187			31465	217	220	America/Chicago	2011-05-14
+4727417	Schulenburg	Schulenburg		29.6819	-96.90304	P	PPL	US		TX	149			2852	112	114	America/Chicago	2011-05-14
+4727466	Scissors	Scissors		26.1398	-98.05389	P	PPL	US		TX	215			3186	24	28	America/Chicago	2011-05-14
+4727596	Seabrook	Seabrook		29.56412	-95.02548	P	PPL	US		TX	201			11952	3	5	America/Chicago	2011-05-14
+4727602	Seadrift	Seadrift		28.41528	-96.71359	P	PPL	US		TX	057			1364	3	8	America/Chicago	2011-05-14
+4727605	Seagoville	Seagoville		32.63958	-96.53832	P	PPL	US		TX	113			14835	134	139	America/Chicago	2011-05-14
+4727629	Sealy	Sealy		29.78079	-96.15718	P	PPL	US		TX	015			6019	61	64	America/Chicago	2011-05-14
+4727651	Sebastian	Sebastian		26.34285	-97.79027	P	PPL	US		TX	489			1917	12	19	America/Chicago	2011-05-14
+4727756	Seguin	Seguin		29.56884	-97.96473	P	PPLA2	US		TX	187			25175	159	165	America/Chicago	2011-05-14
+4727785	Selma	Selma	Sel'ma,Сельма	29.58439	-98.30585	P	PPL	US		TX	029			5540	230	229	America/Chicago	2011-05-14
+4727831	Serenada	Serenada		30.69936	-97.69195	P	PPL	US		TX	491			1641	250	254	America/Chicago	2011-05-14
+4727873	Seven Points	Seven Points		32.32042	-96.21303	P	PPL	US		TX	213			1455	117	120	America/Chicago	2011-05-14
+4727948	Seymour	Seymour		33.59426	-99.26035	P	PPLA2	US		TX	023			2740	393	399	America/Chicago	2011-05-14
+4728052	Shady Hollow	Shady Hollow		30.16493	-97.86223	P	PPL	US		TX	453			5004	229	234	America/Chicago	2011-05-14
+4728064	Shady Shores	Shady Shores		33.16512	-97.02945	P	PPL	US		TX	121			2612	164	169	America/Chicago	2011-05-14
+4728083	Shamrock	Shamrock		32.5993	-96.8875	P	PPL	US		TX	113			1727	214	216	America/Chicago	2006-01-17
+4728147	Shavano Park	Shavano Park		29.58495	-98.55252	P	PPL	US		TX	029			3035	298	302	America/Chicago	2011-05-14
+4728238	Sheldon	Sheldon		29.868	-95.12826	P	PPL	US		TX	201			1990	14	15	America/Chicago	2011-05-14
+4728287	Shenandoah	Shenandoah		30.18022	-95.45577	P	PPL	US		TX	339			2134	45	50	America/Chicago	2011-05-14
+4728298	Shepherd	Shepherd		30.49798	-94.9966	P	PPL	US		TX	407			2319	44	49	America/Chicago	2011-05-14
+4728328	Sherman	Sherman	Sherman,Шерман	33.63566	-96.60888	P	PPLA2	US		TX	181			38521	224	231	America/Chicago	2011-05-14
+4728357	Sherwood Shores	Sherwood Shores		33.85232	-96.81778	P	PPL	US		TX	181			1190	219	220	America/Chicago	2011-05-14
+4728482	Shiner	Shiner		29.42913	-97.17054	P	PPL	US		TX	285			2069	109	113	America/Chicago	2011-05-14
+4728557	Shoreacres	Shoreacres		29.62023	-95.00993	P	PPL	US		TX	201			1493	3	8	America/Chicago	2011-05-14
+4728608	Sienna Plantation	Sienna Plantation		29.48607	-95.508	P	PPL	US		TX	157			13721	18	28	America/Chicago	2011-05-14
+4728616	Siesta Shores	Siesta Shores		26.8581	-99.25365	P	PPL	US		TX	505			1382	114	113	America/Chicago	2011-05-14
+4728653	Silsbee	Silsbee		30.3491	-94.17796	P	PPL	US		TX	199			6611	25	27	America/Chicago	2011-05-14
+4728826	Sinton	Sinton		28.03668	-97.50916	P	PPLA2	US		TX	409			5665	15	19	America/Chicago	2011-05-14
+4729284	Smithville	Smithville		30.00855	-97.15943	P	PPL	US		TX	021			3817	99	104	America/Chicago	2011-05-14
+4732801	Somerset	Somerset	Somerset,Сомерсет	29.22635	-98.6578	P	PPL	US		TX	029			1631	197	199	America/Chicago	2011-05-14
+4732809	Somerville	Somerville		30.34604	-96.5283	P	PPL	US		TX	051			1376	76	77	America/Chicago	2011-05-14
+4732862	Sour Lake	Sour Lake		30.14021	-94.41102	P	PPL	US		TX	199			1813	15	21	America/Chicago	2011-05-14
+4732870	South Alamo	South Alamo		26.15702	-98.10862	P	PPL	US		TX	215			3361	29	33	America/Chicago	2011-05-14
+4733042	South Houston	South Houston		29.66301	-95.23549	P	PPL	US		TX	201			16983	9	12	America/Chicago	2011-05-14
+4733103	South Padre Island	South Padre Island		26.10369	-97.16469	P	PPL	US		TX	061			2816	2	6	America/Chicago	2011-05-14
+4733129	South Point	South Point		25.86869	-97.38359	P	PPL	US		TX	061			1376	5	4	America/Chicago	2011-05-14
+4733313	Southlake	Southlake		32.94124	-97.13418	P	PPL	US		TX	439			26575	195	197	America/Chicago	2011-05-14
+4733362	Southside Place	Southside Place		29.70606	-95.43688	P	PPL	US		TX	201			1715	15	21	America/Chicago	2011-05-14
+4733485	Sparks	Sparks		30.92852	-97.35972	P	PPL	US		TX	027			4211	143	147	America/Chicago	2006-01-17
+4733593	Splendora	Splendora		30.23299	-95.16104	P	PPL	US		TX	339			1615	38	42	America/Chicago	2011-05-14
+4733624	Spring	Spring		30.07994	-95.41716	P	PPL	US		TX	201			54298	37	38	America/Chicago	2011-05-14
+4733891	Spring Valley	Spring Valley	Spring-Vehlli,Спринг-Вэлли	29.78967	-95.50355	P	PPL	US		TX	201			3611	22	30	America/Chicago	2010-09-05
+4733940	Springtown	Springtown		32.96596	-97.68364	P	PPL	US		TX	367			2658	262	265	America/Chicago	2011-05-14
+4734005	Stafford	Stafford		29.61607	-95.55772	P	PPL	US		TX	157			17693	26	28	America/Chicago	2011-05-14
+4734041	Stamford	Stamford	Stamford,Стамфорд	32.94539	-99.80287	P	PPL	US		TX	253			3124	492	497	America/Chicago	2011-05-14
+4734350	Stephenville	Stephenville		32.2207	-98.20226	P	PPLA2	US		TX	143			17123	388	393	America/Chicago	2011-05-14
+4734523	Stockdale	Stockdale		29.23691	-97.96	P	PPL	US		TX	493			1442	135	138	America/Chicago	2011-05-14
+4734646	Stowell	Stowell		29.78994	-94.38324	P	PPL	US		TX	071			1756	7	10	America/Chicago	2011-05-14
+4734825	Sugar Land	Sugar Land	SGR,Sugar Land	29.61968	-95.63495	P	PPL	US		TX	157			78817	23	32	America/Chicago	2011-05-14
+4734864	Sullivan City	Sullivan City		26.27757	-98.56363	P	PPL	US		TX	215			4002	61	67	America/Chicago	2011-05-14
+4734909	Sulphur Springs	Sulphur Springs	SLR	33.13845	-95.60107	P	PPLA2	US		TX	223			15449	153	158	America/Chicago	2011-05-14
+4735013	Sunnyvale	Sunnyvale	Sunivejl,Сънивейл	32.79652	-96.56082	P	PPL	US		TX	113			5130	148	152	America/Chicago	2011-05-14
+4735190	Sweeny	Sweeny		29.03886	-95.69856	P	PPL	US		TX	039			3684	9	15	America/Chicago	2011-05-14
+4735458	Taft	Taft		27.97891	-97.3986	P	PPL	US		TX	409			3048	15	20	America/Chicago	2011-05-14
+4735467	Taft Southwest (historical)	Taft Southwest (historical)		27.97391	-97.40305	P	PPL	US		TX	409			1460	16	23	America/Chicago	2012-03-02
+4735524	Talty	Talty		32.68319	-96.38554	P	PPL	US		TX	257			1535	134	138	America/Chicago	2011-05-14
+4735674	Tatum	Tatum		32.31599	-94.51659	P	PPL	US		TX	401			1385	103	107	America/Chicago	2011-05-14
+4735702	Taylor	Taylor	Tejlor,Тейлор	30.57076	-97.40944	P	PPL	US		TX	491			15191	172	176	America/Chicago	2011-05-14
+4735771	Taylor Lake Village	Taylor Lake Village		29.57523	-95.05021	P	PPL	US		TX	201			3544	1	253	America/Chicago	2011-05-14
+4735813	Teague	Teague		31.62711	-96.28386	P	PPL	US		TX	161			3560	151	153	America/Chicago	2011-05-14
+4735964	Tenaha	Tenaha		31.94378	-94.24409	P	PPL	US		TX	419			1160	106	111	America/Chicago	2011-05-14
+4735966	Temple	Temple	TPL	31.09823	-97.34278	P	PPL	US		TX	027			66102	219	223	America/Chicago	2011-05-14
+4736028	Terrell	Terrell	TRL	32.73596	-96.27526	P	PPL	US		TX	257			15816	155	158	America/Chicago	2011-05-14
+4736043	Terrell Hills	Terrell Hills		29.47495	-98.45085	P	PPL	US		TX	029			4878	244	249	America/Chicago	2011-05-14
+4736096	Texarkana	Texarkana	TXK	33.42512	-94.04769	P	PPL	US		TX	037			36411	91	95	America/Chicago	2011-05-14
+4736134	Texas City	Texas City		29.38384	-94.9027	P	PPL	US		TX	167			45099	3	5	America/Chicago	2011-05-14
+4736388	The Colony	The Colony	Kolonija,Колония	33.08901	-96.88639	P	PPL	US		TX	121			36328	180	182	America/Chicago	2011-05-14
+4736420	The Hills	The Hills		30.34798	-97.98501	P	PPL	US		TX	453			2472	249	259	America/Chicago	2011-05-14
+4736476	The Woodlands	The Woodlands	The Woodlands,Woodlands	30.15799	-95.48938	P	PPL	US		TX	339			93847	43	46	America/Chicago	2011-05-14
+4736681	Thorndale	Thorndale		30.61381	-97.20555	P	PPL	US		TX	331			1336	138	141	America/Chicago	2011-05-14
+4736721	Three Rivers	Three Rivers		28.46027	-98.18251	P	PPL	US		TX	297			1848	45	48	America/Chicago	2011-05-14
+4736741	Throckmorton	Throckmorton		33.17872	-99.17758	P	PPLA2	US		TX	447			828	402	407	America/Chicago	2011-05-14
+4736889	Tilden	Tilden		28.46194	-98.54918	P	PPLA2	US		TX	311			261	76	79	America/Chicago	2011-05-14
+4736922	Timberwood Park	Timberwood Park		29.70578	-98.47835	P	PPL	US		TX	029			13447	376	381	America/Chicago	2011-05-14
+4736933	Timpson	Timpson		31.90378	-94.3952	P	PPL	US		TX	419			1155	119	122	America/Chicago	2011-05-14
+4737052	Tom Bean	Tom Bean		33.52011	-96.48387	P	PPL	US		TX	181			1045	250	253	America/Chicago	2011-05-14
+4737094	Tomball	Tomball		30.09716	-95.61605	P	PPL	US		TX	201			10753	57	59	America/Chicago	2011-05-14
+4737151	Tool	Tool		32.26792	-96.17025	P	PPL	US		TX	213			2240	104	107	America/Chicago	2011-05-14
+4737506	Trinity	Trinity		30.94519	-95.3755	P	PPL	US		TX	455			2697	71	74	America/Chicago	2011-05-14
+4737676	Trophy Club	Trophy Club		32.9979	-97.18362	P	PPL	US		TX	121			8024	185	190	America/Chicago	2011-05-14
+4737691	Troup	Troup		32.1446	-95.1205	P	PPL	US		TX	423			1869	139	143	America/Chicago	2011-05-14
+4737704	Troy	Troy	Troja,Троя	31.20684	-97.30278	P	PPL	US		TX	027			1645	207	209	America/Chicago	2011-05-14
+4738207	Tye	Tye		32.45762	-99.87148	P	PPL	US		TX	441			1242	547	549	America/Chicago	2011-05-14
+4738214	Tyler	Tyler	TYR,Tajler,Tyler,Тайлер	32.35126	-95.30106	P	PPLA2	US		TX	423			96900	164	174	America/Chicago	2011-05-14
+4738279	Uhland	Uhland		29.95772	-97.78611	P	PPL	US		TX	055			1014	166	168	America/Chicago	2011-05-14
+4738574	Universal City	Universal City		29.54801	-98.29112	P	PPL	US		TX	029			18530	233	236	America/Chicago	2011-05-14
+4738606	University Park	University Park		32.85013	-96.80028	P	PPL	US		TX	113			23068	167	173	America/Chicago	2011-05-14
+4738721	Uvalde	Uvalde	UVA	29.20968	-99.78617	P	PPLA2	US		TX	463			15751	277	281	America/Chicago	2011-05-14
+4738725	Uvalde Estates	Uvalde Estates		29.16524	-99.83228	P	PPL	US		TX	463			2171	293	290	America/Chicago	2011-05-14
+4738825	Valley Mills	Valley Mills		31.65933	-97.47224	P	PPL	US		TX	035			1203	181	185	America/Chicago	2011-05-14
+4738883	Van	Van		32.52486	-95.63718	P	PPL	US		TX	467			2632	149	155	America/Chicago	2011-05-14
+4738884	Van Alstyne	Van Alstyne		33.4215	-96.57721	P	PPL	US		TX	181			3046	239	240	America/Chicago	2011-05-14
+4738908	Van Vleck	Van Vleck		29.01775	-95.8894	P	PPL	US		TX	321			1844	14	17	America/Chicago	2011-05-14
+4739052	Venus	Venus		32.43347	-97.10251	P	PPL	US		TX	251			2960	203	207	America/Chicago	2011-05-14
+4739078	Vernon	Vernon		34.15453	-99.26508	P	PPLA2	US		TX	487			11002	361	362	America/Chicago	2011-05-14
+4739157	Victoria	Victoria	VCT,Victoria,Viktorija,Виктория	28.80527	-97.0036	P	PPLA2	US		TX	469			62592	29	35	America/Chicago	2011-05-14
+4739226	Vidor	Vidor		30.1316	-94.01545	P	PPL	US		TX	361			10579	7	7	America/Chicago	2011-05-14
+4739414	Von Ormy	Von Ormy		29.28913	-98.64446	P	PPL	US		TX	029			1085	180	182	America/Chicago	2011-05-14
+4739526	Waco	Waco	ACT,Vako,Waco,wei ke,Вако,韦科	31.54933	-97.14667	P	PPLA2	US		TX	309			124805	143	147	America/Chicago	2011-05-14
+4739641	Wake Village	Wake Village		33.42679	-94.1063	P	PPL	US		TX	037			5492	104	106	America/Chicago	2011-05-14
+4739799	Waller	Waller		30.05661	-95.9269	P	PPL	US		TX	473			2326	76	77	America/Chicago	2011-05-14
+4740200	Waskom	Waskom		32.47876	-94.05963	P	PPL	US		TX	203			2160	87	89	America/Chicago	2011-05-14
+4740214	Watauga	Watauga		32.85791	-97.25474	P	PPL	US		TX	439			23497	185	188	America/Chicago	2011-05-14
+4740328	Waxahachie	Waxahachie		32.38653	-96.84833	P	PPLA2	US		TX	139			29621	170	174	America/Chicago	2011-05-14
+4740364	Weatherford	Weatherford		32.7593	-97.79725	P	PPLA2	US		TX	367			25250	321	328	America/Chicago	2011-05-14
+4740423	Webster	Webster		29.53773	-95.11826	P	PPL	US		TX	201			10400	7	10	America/Chicago	2011-05-14
+4740482	Weimar	Weimar		29.70301	-96.78053	P	PPL	US		TX	089			2151	125	129	America/Chicago	2011-05-14
+4740533	Waelder	Waelder		29.69329	-97.29916	P	PPL	US		TX	177			1065	113	114	America/Chicago	2011-05-14
+4740584	Wells Branch	Wells Branch		30.44604	-97.67945	P	PPL	US		TX	453			12120	250	256	America/Chicago	2011-05-14
+4740629	Weslaco	Weslaco		26.15952	-97.99084	P	PPL	US		TX	215			35670	24	29	America/Chicago	2011-05-14
+4740686	West	West		31.80238	-97.09167	P	PPL	US		TX	309			2807	198	197	America/Chicago	2011-05-14
+4740759	West Columbia	West Columbia		29.14386	-95.64522	P	PPL	US		TX	039			3905	11	13	America/Chicago	2011-05-14
+4740928	West Lake Hills	West Lake Hills		30.29798	-97.80195	P	PPL	US		TX	453			3063	238	252	America/Chicago	2011-05-14
+4740941	West Livingston	West Livingston		30.69825	-95.00188	P	PPL	US		TX	373			8071	43	46	America/Chicago	2011-05-14
+4740987	West Orange	West Orange		30.08215	-93.75822	P	PPL	US		TX	361			3443	3	9	America/Chicago	2011-05-14
+4741057	West Sharyland	West Sharyland		26.27257	-98.32863	P	PPL	US		TX	215			2309	52	53	America/Chicago	2011-05-14
+4741087	West Tawakoni	West Tawakoni		32.89373	-96.02941	P	PPL	US		TX	231			1576	139	147	America/Chicago	2011-05-14
+4741100	West University Place	West University Place		29.71801	-95.43383	P	PPL	US		TX	201			14787	15	26	America/Chicago	2011-05-14
+4741304	Westworth	Westworth		32.75735	-97.41085	P	PPL	US		TX	439			2124	173	179	America/Chicago	2006-01-15
+4741325	Wharton	Wharton		29.31164	-96.10274	P	PPLA2	US		TX	481			8832	31	35	America/Chicago	2011-05-14
+4741501	White Oak	White Oak		32.52792	-94.86133	P	PPL	US		TX	183			6469	126	128	America/Chicago	2011-05-14
+4741616	White Settlement	White Settlement		32.75957	-97.45835	P	PPL	US		TX	439			16116	203	207	America/Chicago	2011-05-14
+4741641	Whitehouse	Whitehouse		32.22682	-95.2255	P	PPL	US		TX	423			7660	146	148	America/Chicago	2011-05-14
+4741677	Whitesboro	Whitesboro		33.65622	-96.90695	P	PPL	US		TX	181			3793	250	252	America/Chicago	2011-05-14
+4741691	Whitewright	Whitewright		33.51289	-96.39248	P	PPL	US		TX	181			1604	229	235	America/Chicago	2011-05-14
+4741714	Whitney	Whitney	Uitni,Уитни	31.95182	-97.3214	P	PPL	US		TX	217			2087	181	182	America/Chicago	2011-05-14
+4741752	Wichita Falls	Wichita Falls	SPS,Wichita Falls	33.91371	-98.49339	P	PPLA2	US		TX	485			104553	289	296	America/Chicago	2011-05-14
+4741838	Wild Peach Village	Wild Peach Village		29.08358	-95.63384	P	PPL	US		TX	039			2452	8	19	America/Chicago	2011-05-14
+4741898	Wildwood	Wildwood		30.5241	-94.44158	P	PPL	US		TX	199			1235	36	44	America/Chicago	2011-05-14
+4742170	Willis	Willis		30.42493	-95.47994	P	PPL	US		TX	339			5662	116	119	America/Chicago	2011-05-14
+4742296	Willow Park	Willow Park		32.76263	-97.65058	P	PPL	US		TX	367			3982	284	293	America/Chicago	2011-05-14
+4742380	Wills Point	Wills Point		32.7093	-96.0083	P	PPL	US		TX	467			3524	162	167	America/Chicago	2011-05-14
+4742385	Wilmer	Wilmer		32.58902	-96.68527	P	PPL	US		TX	113			3682	142	146	America/Chicago	2011-05-14
+4742503	Wimberley	Wimberley		29.99744	-98.09862	P	PPL	US		TX	209			2626	262	267	America/Chicago	2011-05-14
+4742527	Windemere	Windemere		30.45909	-97.64917	P	PPL	US		TX	453			1037	231	234	America/Chicago	2011-05-14
+4742537	Windcrest	Windcrest		29.51551	-98.38029	P	PPL	US		TX	029			5364	240	245	America/Chicago	2011-05-14
+4742616	Winnie	Winnie		29.82022	-94.38408	P	PPL	US		TX	071			3254	8	11	America/Chicago	2011-05-14
+4742620	Winnsboro	Winnsboro		32.95734	-95.29022	P	PPL	US		TX	499			3434	160	163	America/Chicago	2011-05-14
+4742656	Winters	Winters		31.95653	-99.96231	P	PPL	US		TX	399			2562	561	564	America/Chicago	2011-05-14
+4742800	Wolfe City	Wolfe City		33.37067	-96.06886	P	PPL	US		TX	231			1412	211	215	America/Chicago	2011-05-14
+4742897	Woodbranch	Woodbranch		30.18105	-95.18882	P	PPL	US		TX	339			1282	29	38	America/Chicago	2011-05-14
+4742902	Woodcreek	Woodcreek		30.02827	-98.11112	P	PPL	US		TX	209			1457	293	301	America/Chicago	2011-05-14
+4743057	Woodsboro	Woodsboro		28.23834	-97.31999	P	PPL	US		TX	391			1512	12	18	America/Chicago	2011-05-14
+4743079	Woodville	Woodville		30.7752	-94.41548	P	PPLA2	US		TX	457			2586	82	86	America/Chicago	2011-05-14
+4743105	Woodway	Woodway		31.506	-97.20501	P	PPL	US		TX	309			8452	193	196	America/Chicago	2011-05-14
+4743176	Wortham	Wortham		31.78794	-96.46248	P	PPL	US		TX	161			1073	145	147	America/Chicago	2011-05-14
+4743274	Wyldwood	Wyldwood		30.12938	-97.47277	P	PPL	US		TX	021			2505	156	161	America/Chicago	2011-05-14
+4743275	Wylie	Wylie		33.01512	-96.53888	P	PPL	US		TX	085			41427	170	174	America/Chicago	2011-05-14
+4743432	Yoakum	Yoakum		29.28775	-97.15193	P	PPL	US		TX	123			5815	98	101	America/Chicago	2011-05-14
+4743453	Yorktown	Yorktown		28.98109	-97.50277	P	PPL	US		TX	123			2092	84	87	America/Chicago	2011-05-14
+4743575	Zapata	Zapata		26.90726	-99.27143	P	PPLA2	US		TX	505			5089	121	123	America/Chicago	2011-05-14
+4829206	Dilley	Dilley		28.66748	-99.17059	P	PPL	US		TX	163			3894	171	169	America/Chicago	2011-05-14
+4829208	Devine	Devine		29.13996	-98.90531	P	PPL	US		TX	325			4350	197	200	America/Chicago	2011-05-14
+4829219	Hickory Creek	Hickory Creek		33.12234	-97.04306	P	PPL	US		TX	121			3247	176	180	America/Chicago	2011-05-14
+4829243	Wallis	Wallis		29.63135	-96.06524	P	PPL	US		TX	015			1252	39	41	America/Chicago	2011-05-14
+4829307	Bay City	Bay City	Bej-Siti,Бей-Сити	28.98276	-95.9694	P	PPLA2	US		TX	321			17614	16	19	America/Chicago	2011-05-14
+5516008	Abernathy	Abernathy		33.8323	-101.84295	P	PPL	US		TX	303			2805	1024	1026	America/Chicago	2011-05-14
+5516077	Agua Dulce	Agua Dulce		31.65511	-106.13887	P	PPL	US		TX	141			3014	1229	1223	America/Denver	2011-05-14
+5516203	Alpine	Alpine	ALE	30.35849	-103.66101	P	PPLA2	US		TX	043			5905	1364	1366	America/Chicago	2011-05-14
+5516233	Amarillo	Amarillo	AMA,Amarillo,amariro,Амарилло,アマリロ	35.222	-101.8313	P	PPLA2	US		TX	375			190695	1118	1124	America/Chicago	2011-05-14
+5516288	Andrews	Andrews		32.31872	-102.54572	P	PPLA2	US		TX	003			11088	968	969	America/Chicago	2011-05-14
+5516368	Anthony	Anthony		31.99927	-106.60555	P	PPL	US		TX	141			5011	1160	1152	America/Denver	2011-05-14
+5516487	Aspermont	Aspermont		33.13343	-100.22733	P	PPLA2	US		TX	433			919	543	545	America/Chicago	2011-05-14
+5517030	Big Lake	Big Lake		31.19154	-101.46039	P	PPLA2	US		TX	383			2936	820	821	America/Chicago	2011-05-14
+5517061	Big Spring	Big Spring		32.2504	-101.47874	P	PPLA2	US		TX	227			27282	744	747	America/Chicago	2011-05-14
+5517424	Booker	Booker		36.45336	-100.53737	P	PPL	US		TX	295			1516	863	870	America/Chicago	2011-05-14
+5517469	Borger	Borger	BGD	35.66782	-101.39739	P	PPL	US		TX	233			13251	938	944	America/Chicago	2011-05-14
+5517500	Bovina	Bovina		34.51368	-102.883	P	PPL	US		TX	369			1868	1240	1242	America/Chicago	2011-05-14
+5517550	Brackettville	Brackettville		29.31051	-100.41786	P	PPLA2	US		TX	271			1688	337	340	America/Chicago	2011-05-14
+5517675	Brownfield	Brownfield		33.1812	-102.27435	P	PPLA2	US		TX	445			9657	1009	1010	America/Chicago	2011-05-14
+5518011	Bushland	Bushland		35.192	-102.06464	P	PPL	US		TX	375			1500	1166	1177	America/Chicago	2010-10-07
+5518084	Cactus	Cactus		36.05226	-102.0024	P	PPL	US		TX	341			3179	1103	1106	America/Chicago	2011-05-14
+5518214	Canadian	Canadian		35.91282	-100.38208	P	PPLA2	US		TX	211			2649	739	746	America/Chicago	2011-05-14
+5518232	Canutillo	Canutillo		31.91149	-106.60027	P	PPL	US		TX	141			6321	1150	1144	America/Denver	2011-05-14
+5518239	Canyon	Canyon		34.98033	-101.9188	P	PPLA2	US		TX	381			13303	1080	1086	America/Chicago	2011-05-14
+5518692	Channing	Channing		35.68365	-102.3302	P	PPLA2	US		TX	205			363	1160	1161	America/Chicago	2011-05-14
+5518758	Childress	Childress	CDS	34.42645	-100.204	P	PPLA2	US		TX	075			6105	570	574	America/Chicago	2011-05-14
+5518982	Cienegas Terrace	Cienegas Terrace		29.36745	-100.94371	P	PPL	US		TX	465			3424	293	292	America/Chicago	2011-05-14
+5519031	Clarendon	Clarendon		34.93783	-100.8882	P	PPLA2	US		TX	129			2026	833	836	America/Chicago	2011-05-14
+5519055	Claude	Claude		35.11172	-101.36322	P	PPLA2	US		TX	011			1196	1038	1039	America/Chicago	2011-05-14
+5519254	Colorado City	Colorado City		32.38817	-100.86456	P	PPLA2	US		TX	335			4146	630	629	America/Chicago	2011-05-14
+5519648	Crane	Crane		31.39736	-102.35014	P	PPLA2	US		TX	103			3353	784	784	America/Chicago	2011-05-14
+5519719	Crosbyton	Crosbyton		33.66008	-101.23793	P	PPLA2	US		TX	107			1741	921	923	America/Chicago	2011-05-14
+5519862	Dalhart	Dalhart	DHT	36.05948	-102.51325	P	PPLA2	US		TX	111			7930	1214	1215	America/Chicago	2011-05-14
+5520076	Del Rio	Del Rio	DRT	29.36273	-100.89676	P	PPLA2	US		TX	465			35591	295	296	America/Chicago	2011-05-14
+5520110	Denver City	Denver City		32.96455	-102.8291	P	PPL	US		TX	501			4479	1089	1095	America/Chicago	2011-05-14
+5520196	Dickens	Dickens		33.62175	-100.83652	P	PPLA2	US		TX	125			286	776	775	America/Chicago	2011-05-14
+5520201	Dimmitt	Dimmitt		34.5509	-102.31186	P	PPLA2	US		TX	069			4393	1181	1188	America/Chicago	2011-05-14
+5520552	Dumas	Dumas		35.86559	-101.97324	P	PPLA2	US		TX	341			14691	1116	1118	America/Chicago	2011-05-14
+5520677	Eagle Pass	Eagle Pass	EGP	28.70914	-100.49952	P	PPLA2	US		TX	323			26248	223	226	America/Chicago	2011-05-14
+5520687	Earth, TX	Earth, TX	Earth	34.23314	-102.41075	P	PPL	US		TX	279			1065	1126	1129	America/Chicago	2011-05-14
+5520953	Eidson Road	Eidson Road		28.6772	-100.48702	P	PPL	US		TX	323			8960	229	227	America/Chicago	2011-05-14
+5520993	El Paso	El Paso	ELP,Ehl'-Paso,El Pasas,El Paso,Ел Пасо,Эль-Пасо,エル・パソ	31.75872	-106.48693	P	PPLA2	US		TX	141			649121	1133	1137	America/Denver	2012-02-20
+5521036	Eldorado	Eldorado		30.86017	-100.60093	P	PPLA2	US		TX	413			1951	743	746	America/Chicago	2011-05-14
+5521075	Elm Creek	Elm Creek		28.77442	-100.49174	P	PPL	US		TX	323			2469	229	229	America/Chicago	2011-05-14
+5521233	Fabens	Fabens		31.50234	-106.15859	P	PPL	US		TX	141			8257	1102	1101	America/Denver	2011-05-14
+5521353	Farwell	Farwell		34.38341	-103.038	P	PPLA2	US		TX	369			1363	1263	1267	America/Chicago	2011-05-14
+5521646	Floydada	Floydada		33.98452	-101.33766	P	PPLA2	US		TX	153			3038	970	973	America/Chicago	2011-05-14
+5521711	Fort Clark Springs	Fort Clark Springs		29.30607	-100.42202	P	PPL	US		TX	271			1228	351	352	America/Chicago	2011-05-14
+5521715	Fort Davis	Fort Davis		30.58821	-103.89463	P	PPLA2	US		TX	243			1201	1491	1494	America/Chicago	2011-05-14
+5521724	Fort Hancock	Fort Hancock		31.29846	-105.84525	P	PPL	US		TX	229			1750	1091	1089	America/Denver	2011-05-14
+5521746	Fort Stockton	Fort Stockton	FST	30.89404	-102.87932	P	PPLA2	US		TX	371			8283	906	904	America/Chicago	2011-05-14
+5521905	Friona	Friona		34.64173	-102.7241	P	PPL	US		TX	369			4123	1225	1232	America/Chicago	2011-05-14
+5521912	Fritch	Fritch		35.63977	-101.60323	P	PPL	US		TX	233			2117	974	980	America/Chicago	2011-05-14
+5521972	Gail	Gail		32.77038	-101.44541	P	PPLA2	US		TX	033			231	779	779	America/Chicago	2011-05-14
+5522004	Garden City	Garden City		31.86402	-101.48123	P	PPLA2	US		TX	173			334	804	805	America/Chicago	2011-05-14
+5522019	Gardendale	Gardendale		32.0204	-102.38015	P	PPL	US		TX	135			1574	904	905	America/Chicago	2011-05-14
+5522392	Grape Creek	Grape Creek		31.57932	-100.5476	P	PPL	US		TX	451			3154	606	607	America/Chicago	2011-05-14
+5522580	Guthrie	Guthrie		33.62064	-100.32289	P	PPLA2	US		TX	269			160	531	533	America/Chicago	2011-05-14
+5522714	Hale Center	Hale Center		34.06424	-101.84379	P	PPL	US		TX	189			2252	1042	1041	America/Chicago	2011-05-14
+5522769	Hamlin	Hamlin		32.88483	-100.12649	P	PPL	US		TX	151			2124	525	524	America/Chicago	2011-05-14
+5522876	Hart	Hart		34.38507	-102.11574	P	PPL	US		TX	069			1114	1118	1117	America/Chicago	2011-05-14
+5523074	Hereford	Hereford		34.81506	-102.3977	P	PPLA2	US		TX	117			15370	1163	1169	America/Chicago	2011-05-14
+5523335	Homestead Meadows North	Homestead Meadows North		31.84963	-106.17285	P	PPL	US		TX	141			5124	1242	1236	America/Denver	2011-05-14
+5523336	Homestead Meadows South	Homestead Meadows South		31.81097	-106.16427	P	PPL	US		TX	141			7247	1241	1236	America/Denver	2011-05-14
+5523369	Horizon City	Horizon City		31.69261	-106.20748	P	PPL	US		TX	141			16735	1226	1228	America/Denver	2011-05-14
+5523659	Idalou	Idalou		33.66647	-101.68294	P	PPL	US		TX	303			2250	973	979	America/Chicago	2011-05-14
+5523798	Iraan	Iraan	IRB	30.91405	-101.89791	P	PPL	US		TX	371			1229	677	678	America/Chicago	2011-05-14
+5523963	Jayton	Jayton		33.24815	-100.57373	P	PPLA2	US		TX	263			534	611	613	America/Chicago	2011-05-14
+5524527	Kermit	Kermit		31.85763	-103.09267	P	PPLA2	US		TX	495			5708	872	875	America/Chicago	2011-05-14
+5524849	Lamesa	Lamesa		32.7376	-101.95099	P	PPLA2	US		TX	115			9422	912	911	America/Chicago	2011-05-14
+5524912	Las Quintas Fronterizas	Las Quintas Fronterizas		28.69053	-100.46869	P	PPL	US		TX	323			3290	227	229	America/Chicago	2011-05-14
+5524913	Las Quintas Fronterizas Colonia	Las Quintas Fronterizas Colonia		28.69137	-100.46924	P	PPL	US		TX	323			3290	228	228	America/Chicago	2011-05-14
+5525042	Levelland	Levelland		33.58732	-102.37796	P	PPLA2	US		TX	219			13542	1073	1072	America/Chicago	2011-05-14
+5525295	Littlefield	Littlefield		33.91731	-102.3249	P	PPLA2	US		TX	279			6372	1085	1083	America/Chicago	2011-05-14
+5525346	Lockney	Lockney		34.12452	-101.44155	P	PPL	US		TX	153			1842	999	1000	America/Chicago	2011-05-14
+5525455	Lorenzo	Lorenzo		33.67064	-101.53516	P	PPL	US		TX	107			1147	966	970	America/Chicago	2011-05-14
+5525577	Lubbock	Lubbock	LBB,Lubbock,rabokku,ラボック	33.57786	-101.85517	P	PPLA2	US		TX	303			229573	976	979	America/Chicago	2011-05-14
+5525775	Marfa	Marfa	MRF	30.30794	-104.01907	P	PPLA2	US		TX	377			1981	1428	1428	America/Chicago	2011-05-14
+5525856	Matador	Matador		34.01202	-100.82208	P	PPLA2	US		TX	345			607	726	730	America/Chicago	2011-05-14
+5525938	McCamey	McCamey		31.13598	-102.2243	P	PPL	US		TX	461			1887	752	750	America/Chicago	2011-05-14
+5526145	Memphis	Memphis	Memfis,Мемфис	34.72478	-100.53401	P	PPLA2	US		TX	191			2290	627	629	America/Chicago	2011-05-14
+5526156	Mentone	Mentone		31.70513	-103.59935	P	PPLA2	US		TX	301			19	818	825	America/Chicago	2011-05-14
+5526164	Merkel	Merkel		32.47068	-100.01287	P	PPL	US		TX	441			2590	570	572	America/Chicago	2011-05-14
+5526174	Mertzon	Mertzon		31.26183	-100.81733	P	PPLA2	US		TX	235			781	671	671	America/Chicago	2011-05-14
+5526233	Miami	Miami	Majami,Майами	35.69143	-100.63819	P	PPLA2	US		TX	393			597	840	840	America/Chicago	2011-05-14
+5526337	Midland	Midland	MAF,Midland	31.99735	-102.07791	P	PPLA2	US		TX	329			111147	848	862	America/Chicago	2011-05-14
+5526514	Monahans	Monahans	MIF	31.5943	-102.89265	P	PPLA2	US		TX	475			6953	799	800	America/Chicago	2011-05-14
+5526657	Morton	Morton		33.7251	-102.75938	P	PPLA2	US		TX	079			2006	1146	1148	America/Chicago	2011-05-14
+5526805	Muleshoe	Muleshoe		34.22647	-102.72383	P	PPLA2	US		TX	017			5158	1156	1161	America/Chicago	2011-05-14
+5527554	Odessa	Odessa	Odesa,Odessa,Одеса,Одесса	31.84568	-102.36764	P	PPLA2	US		TX	135			99940	884	885	America/Chicago	2011-05-14
+5527759	Olton	Olton		34.18341	-102.13463	P	PPL	US		TX	279			2215	1101	1103	America/Chicago	2011-05-14
+5527870	Ozona	Ozona		30.71017	-101.20067	P	PPLA2	US		TX	105			3225	716	719	America/Chicago	2011-05-14
+5527891	Paducah	Paducah		34.0123	-100.30206	P	PPLA2	US		TX	101			1186	567	568	America/Chicago	2011-05-14
+5527953	Pampa	Pampa		35.53616	-100.95987	P	PPLA2	US		TX	179			17994	987	991	America/Chicago	2011-05-14
+5527980	Panhandle	Panhandle		35.3456	-101.38044	P	PPLA2	US		TX	065			2452	1054	1057	America/Chicago	2011-05-14
+5528182	Pecos	Pecos		31.42291	-103.49323	P	PPLA2	US		TX	389			8780	787	791	America/Chicago	2011-05-14
+5528274	Perryton	Perryton		36.40003	-100.80265	P	PPLA2	US		TX	357			8802	896	903	America/Chicago	2011-05-14
+5528302	Petersburg	Petersburg	Peterburg,Петербург	33.86952	-101.59739	P	PPL	US		TX	189			1202	992	990	America/Chicago	2011-05-14
+5528440	Plains	Plains		33.18871	-102.82799	P	PPLA2	US		TX	501			1481	1110	1110	America/Chicago	2011-05-14
+5528450	Plainview	Plainview	PVW	34.18479	-101.70684	P	PPLA2	US		TX	189			22194	1025	1025	America/Chicago	2011-05-14
+5528596	Post	Post		33.19093	-101.37819	P	PPLA2	US		TX	169			5376	794	795	America/Chicago	2011-05-14
+5528669	Presidio	Presidio		29.56074	-104.37215	P	PPL	US		TX	377			4426	787	788	America/Chicago	2011-05-14
+5528921	Rankin	Rankin		31.22265	-101.93791	P	PPLA2	US		TX	461			778	767	764	America/Chicago	2011-05-14
+5528928	Ransom Canyon	Ransom Canyon		33.53342	-101.67961	P	PPL	US		TX	303			1096	946	945	America/Chicago	2011-05-14
+5529397	Robert Lee	Robert Lee		31.89237	-100.48482	P	PPLA2	US		TX	081			1049	557	557	America/Chicago	2011-05-14
+5529438	Roby	Roby		32.74483	-100.37761	P	PPLA2	US		TX	151			643	598	600	America/Chicago	2011-05-14
+5529514	Rocksprings	Rocksprings		30.01576	-100.20536	P	PPLA2	US		TX	137			1182	732	735	America/Chicago	2011-05-14
+5529571	Roscoe	Roscoe		32.44595	-100.53872	P	PPL	US		TX	353			1322	728	728	America/Chicago	2011-05-14
+5529592	Rosita North	Rosita North		28.65644	-100.42218	P	PPL	US		TX	323			3818	240	240	America/Chicago	2011-05-14
+5529595	Rosita South	Rosita South		28.62375	-100.42837	P	PPL	US		TX	323			2704	223	224	America/Chicago	2011-05-14
+5529609	Rotan	Rotan		32.85205	-100.46566	P	PPL	US		TX	151			1508	594	595	America/Chicago	2011-05-14
+5530022	San Angelo	San Angelo	SJT,San Angelo	31.46377	-100.43704	P	PPLA2	US		TX	451			93200	562	564	America/Chicago	2011-05-14
+5530058	San Elizario	San Elizario		31.58511	-106.27276	P	PPL	US		TX	141			13603	1110	1107	America/Denver	2011-05-14
+5530210	Sanderson	Sanderson		30.14241	-102.39403	P	PPLA2	US		TX	443			837	850	849	America/Chicago	2011-05-14
+5530403	Seagraves	Seagraves		32.94427	-102.56492	P	PPL	US		TX	165			2417	1022	1024	America/Chicago	2011-05-14
+5530452	Seminole	Seminole		32.71899	-102.64491	P	PPLA2	US		TX	165			6430	1005	1008	America/Chicago	2011-05-14
+5530469	Seth Ward	Seth Ward		34.21174	-101.69018	P	PPL	US		TX	189			2025	1028	1026	America/Chicago	2011-05-14
+5530549	Shallowater	Shallowater		33.68897	-101.99823	P	PPL	US		TX	303			2484	1004	1006	America/Chicago	2011-05-14
+5530555	Shamrock	Shamrock		35.21422	-100.24901	P	PPL	US		TX	483			1910	714	718	America/Chicago	2011-05-14
+5530688	Sierra Blanca	Sierra Blanca		31.17457	-105.35718	P	PPLA2	US		TX	229			553	1380	1382	America/Denver	2011-05-14
+5530728	Silverton	Silverton		34.47423	-101.30461	P	PPLA2	US		TX	045			731	999	1002	America/Chicago	2011-05-14
+5530825	Slaton	Slaton		33.43731	-101.64349	P	PPL	US		TX	303			6121	940	942	America/Chicago	2011-05-14
+5530921	Snyder	Snyder		32.71789	-100.91762	P	PPLA2	US		TX	415			11202	707	709	America/Chicago	2011-05-14
+5530932	Socorro	Socorro	Sokorro,Сокорро	31.65456	-106.30331	P	PPL	US		TX	141			32013	1116	1112	America/Denver	2011-05-14
+5530937	Socorro Mission Number 1 Colonia	Socorro Mission Number 1 Colonia		31.63622	-106.29054	P	PPL	US		TX	141			28637	1115	1109	America/Denver	2006-01-17
+5531255	Sonora	Sonora		30.56685	-100.64343	P	PPLA2	US		TX	435			3027	649	650	America/Chicago	2011-05-14
+5531548	Sparks	Sparks	Sparks,Спаркс	31.67261	-106.2397	P	PPL	US		TX	141			4529	1162	1159	America/Denver	2011-05-14
+5531553	Spearman	Spearman		36.19837	-101.19238	P	PPLA2	US		TX	195			3368	946	954	America/Chicago	2011-05-14
+5531683	Stanton	Stanton	Stehnton,Стэнтон	32.12929	-101.78846	P	PPLA2	US		TX	317			2492	812	812	America/Chicago	2011-05-14
+5531747	Sterling City	Sterling City		31.83625	-100.98483	P	PPLA2	US		TX	431			888	697	696	America/Chicago	2011-05-14
+5531793	Stinnett	Stinnett		35.82698	-101.44294	P	PPLA2	US		TX	233			1881	972	978	America/Chicago	2011-05-14
+5531815	Stratford	Stratford	Stratford,Стратфорд	36.33614	-102.07212	P	PPLA2	US		TX	421			2017	1125	1128	America/Chicago	2011-05-14
+5531919	Sundown	Sundown		33.45621	-102.48936	P	PPL	US		TX	219			1397	1079	1080	America/Chicago	2011-05-14
+5531929	Sunray	Sunray		36.0167	-101.82462	P	PPL	US		TX	341			1926	1069	1070	America/Chicago	2011-05-14
+5531968	Sweetwater	Sweetwater		32.47095	-100.40594	P	PPLA2	US		TX	353			10906	661	664	America/Chicago	2011-05-14
+5532037	Tahoka	Tahoka		33.16676	-101.79377	P	PPLA2	US		TX	305			2673	939	944	America/Chicago	2011-05-14
+5532423	Tornillo	Tornillo		31.4454	-106.08831	P	PPL	US		TX	141			1568	1093	1090	America/Denver	2011-05-14
+5532610	Tulia	Tulia		34.53589	-101.75852	P	PPLA2	US		TX	437			4967	1061	1064	America/Chicago	2011-05-14
+5532893	Val Verde Park	Val Verde Park		29.37495	-100.83176	P	PPL	US		TX	465			2384	329	329	America/Chicago	2011-05-14
+5532924	Van Horn	Van Horn	VHN	31.03986	-104.83077	P	PPLA2	US		TX	109			2063	1232	1233	America/Chicago	2011-05-14
+5532945	Vega	Vega		35.24283	-102.42826	P	PPLA2	US		TX	359			884	1228	1236	America/Chicago	2011-05-14
+5532993	Vinton	Vinton		31.95121	-106.60249	P	PPL	US		TX	141			1971	1157	1152	America/Denver	2011-05-14
+5533240	Wellington	Wellington	Vellington,Веллингтон	34.85617	-100.21373	P	PPLA2	US		TX	087			2189	619	624	America/Chicago	2011-05-14
+5533366	West Odessa	West Odessa		31.84235	-102.49876	P	PPL	US		TX	135			22707	903	902	America/Chicago	2011-05-14
+5533510	Westway	Westway		31.95871	-106.57805	P	PPL	US		TX	141			4188	1207	1200	America/Denver	2011-05-14
+5533560	Wheeler	Wheeler		35.44533	-100.27096	P	PPLA2	US		TX	483			1592	764	768	America/Chicago	2011-05-14
+5534109	Wolfforth	Wolfforth		33.50592	-102.00906	P	PPL	US		TX	303			3670	1011	1012	America/Chicago	2011-05-14
+5550611	Anton	Anton		33.8112	-102.16379	P	PPL	US		TX	219			1126	1033	1029	America/Chicago	2011-05-14
+5550634	Gruver	Gruver		36.26503	-101.40627	P	PPL	US		TX	195			1194	969	977	America/Chicago	2011-05-14
+5550669	Ralls	Ralls		33.67425	-101.38766	P	PPL	US		TX	107			1944	947	950	America/Chicago	2011-05-14
+5550683	Spur	Spur		33.47648	-100.85569	P	PPL	US		TX	125			1318	698	701	America/Chicago	2011-05-14
+6332680	New Fairview	New Fairview		33.09917	-97.44639	P	PPL	US		TX	497			1258	286	286	America/Chicago	2011-05-14
+7234896	Cross Roads	Cross Roads		33.23065	-97.0019	P	PPL	US		TX	121			1563	183	186	America/Chicago	2011-05-14
+7238057	Weston Lakes	Weston Lakes		29.68324	-95.93571	P	PPL	US		TX	157			2482	31	35	America/Chicago	2011-05-14
+7261282	Fort Bliss	Fort Bliss		31.81357	-106.41224	P	PPL	US		TX	141			8591	1186	1184	America/Denver	2011-05-14
+7261291	Fort Hood	Fort Hood		31.13489	-97.77561	P	PPL	US		TX	027			29589	273	276	America/Chicago	2011-05-14
+7261570	Lackland Air Force Base	Lackland Air Force Base		29.38663	-98.61797	P	PPL	US		TX	029			9918	228	230	America/Chicago	2011-05-14
+7261636	Laughlin Air Force Base	Laughlin Air Force Base		29.35663	-100.78353	P	PPL	US		TX	465			1569	327	330	America/Chicago	2011-05-14
+7900963	Oak Cliff Place	Oak Cliff Place		29.92712	-95.62672	P	PPL	US		TX	201			1800		41	America/Chicago	2011-07-11
