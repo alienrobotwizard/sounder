@@ -1,5 +1,11 @@
 package sounder.pig.chaos;
 
+/**
+   A simple and well known continuous time dynamical system.
+   See: http://en.wikipedia.org/wiki/Lorenz_system
+   <p>
+   lyapunov exponent: ~0.91
+ */
 public class LorenzSystem extends DynamicalSystem {
 
     private double sigma;
@@ -7,7 +13,7 @@ public class LorenzSystem extends DynamicalSystem {
     private double rho;
     
     public LorenzSystem(double sigma, double beta, double rho, double[] x0) {
-        super(x0, 0.01); // hardcode timestep
+        super(x0, 0.01);    // Hard code a reasonably small step size. 
         this.sigma = sigma;
         this.beta = beta;
         this.rho = rho;
