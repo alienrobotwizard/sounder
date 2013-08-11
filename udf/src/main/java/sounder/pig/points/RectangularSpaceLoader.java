@@ -51,21 +51,29 @@ import org.apache.pig.backend.hadoop.executionengine.mapReduceLayer.PigSplit;
    .
    (dimN_max - dimN_min)/dimN_num
 
-   and is represented as a single input split (for maximum parallelism)
-   and returned as a tuple.
-
-   **IMPORTANT** Since each "tile" is represented as a single
-   input split you MUST stop pig from combining input splits.
-   In your pig script:
-
-   set pig.noSplitCombination true
+   and is represented as a single input split (for maximum parallelism) or
+   several tiles per split as determined by the numSplits value in the
+   constructor. Each tile is returned as a tuple.
    
  */
 public class RectangularSpaceLoader extends LoadFunc {
 
     protected RecordReader in = null;
+    protected int numSplits;
     
     public RectangularSpaceLoader() {
+        this("-1");
+    }
+
+    /**
+       Allows for user to specify desired number of input splits.
+       Note that this is an approximate value since
+       tilesPerSplit = numTiles/numSplits will in general have
+       some remainder. This remainder will go into an additional
+       split.
+     */
+    public RectangularSpaceLoader(String numSplits) {
+        this.numSplits = Integer.parseInt(numSplits);
     }
 
     @Override
@@ -95,7 +103,7 @@ public class RectangularSpaceLoader extends LoadFunc {
 
     @Override
     public InputFormat getInputFormat() {        
-        return new SpaceInputFormat();
+        return new SpaceInputFormat(numSplits);
     }
 
     @Override
@@ -105,11 +113,19 @@ public class RectangularSpaceLoader extends LoadFunc {
 
     @Override
     public void setLocation(String location, Job job) throws IOException {
+        // Don't let pig combine splits since our input splits are NOT blocks of files
+        job.getConfiguration().setBoolean("pig.noSplitCombination", true);
         FileInputFormat.setInputPaths(job, location);
     }
 
     public class SpaceInputFormat extends FileInputFormat<NullWritable, ArrayWritable> {
 
+        private int numSplits; // Importantly this is the _desired_ number of splits, not actual splits
+        
+        public SpaceInputFormat(int numSplits) {
+            this.numSplits = numSplits;
+        }
+        
         @Override
         public RecordReader<NullWritable, ArrayWritable> createRecordReader(InputSplit split, TaskAttemptContext context) {
             return new SpaceRecordReader();
@@ -139,10 +155,19 @@ public class RectangularSpaceLoader extends LoadFunc {
                 ArrayList<ArrayList<Double>> expandedDims = expandDimensions(spaceSpec);
                 
                 ArrayList<ArrayList<Double>> exploded = rectangularize(expandedDims, expandedDims.size()-1);
-                
-                for (ArrayList<Double> point : exploded) {
-                    result.add(new SpaceSplit(point));
-                }                
+
+                int pointsPerSplit = (numSplits == -1 ? 1 : exploded.size()/numSplits);
+
+                int currentPoint = 0;
+                while (currentPoint < exploded.size()) {
+                    ArrayList<ArrayList<Double>> splitPoints = new ArrayList<ArrayList<Double>>();
+                    while (splitPoints.size() < pointsPerSplit && currentPoint < exploded.size()) {
+                        ArrayList<Double> point = exploded.get(currentPoint);
+                        splitPoints.add(point);
+                        currentPoint += 1;
+                    }
+                    result.add(new SpaceSplit(splitPoints, spaceSpec.size()));
+                }
             }
             return result;
         }
@@ -322,15 +347,17 @@ public class RectangularSpaceLoader extends LoadFunc {
        of the tile in a right handed coordinate system.
      */
     public static class SpaceSplit extends org.apache.hadoop.mapreduce.InputSplit implements org.apache.hadoop.mapred.InputSplit {
-        private List<Double> coordinates = null;
-        private int size = 0;
+        private ArrayList<ArrayList<Double>> points = null;
+        private int numPoints = 0;
+        private int dimension = 0;
 
         public SpaceSplit() {
         }
         
-        public SpaceSplit(List<Double> coordinates) {
-            this.coordinates = coordinates;
-            this.size = coordinates.size();
+        public SpaceSplit(ArrayList<ArrayList<Double>> points, int dimension) {
+            this.points = points;
+            this.numPoints = points.size();
+            this.dimension = dimension; // dimensionality of each point, uniform
         }
 
         @Override
@@ -345,31 +372,62 @@ public class RectangularSpaceLoader extends LoadFunc {
 
         @Override
         public void readFields(DataInput in) throws IOException {
-            this.size = in.readInt();
-            this.coordinates = new ArrayList<Double>(size);
-            for (int i = 0; i < size; i++) {
-                coordinates.add(i, in.readDouble());
+            this.numPoints = in.readInt();
+            this.dimension = in.readInt();
+            this.points = new ArrayList<ArrayList<Double>>(numPoints);
+            for (int i = 0; i < numPoints; i++) {
+                ArrayList<Double> point = new ArrayList<Double>();
+                for (int j = 0; j < dimension; j++) {
+                    point.add(j, in.readDouble());
+                }
+                points.add(i, point);
             }
         }
 
         @Override
         public void write(DataOutput out) throws IOException {
-            out.writeInt(size);
-            for (Double coordinate : coordinates) {
-                out.writeDouble(coordinate);
+            out.writeInt(numPoints);
+            out.writeInt(dimension);
+            for (List<Double> point : points) {
+                for (Double coordinate : point) {
+                    out.writeDouble(coordinate);
+                }
             }
         }
         
-        public List<Double> getCoordinates() {
-            return coordinates;
+        public ArrayList<ArrayList<Double>> getPoints() {
+            return points;
         }
 
-        public int numCoordinates() {
-            return coordinates.size();
+        public int getNumPoints() {
+            return numPoints;
         }
 
-        public Double getCoordinate(int dim) {
-            return coordinates.get(dim);
+        public int getDimension() {
+            return dimension;
+        }
+
+        public List<Double> getPoint(int index) {
+            return points.get(index);
+        }
+
+        public String toString() {
+            StringBuffer b = new StringBuffer();
+            b.append("SpaceSplit( ");
+            b.append("numPoints:");
+            b.append(numPoints);
+            b.append(", firstPoint:[");
+            if (numPoints > 0) {
+                List<Double> point = getPoint(0);
+                for (int i = 0; i < point.size(); i++) {
+                    b.append(point.get(i));
+                    if (i < point.size()-1) {
+                        b.append(",");
+                    }
+                }
+            }
+            b.append("] )");
+            return b.toString();
         }
     }
     
@@ -377,6 +435,7 @@ public class RectangularSpaceLoader extends LoadFunc {
     public class SpaceRecordReader extends RecordReader<NullWritable, ArrayWritable> {
         private SpaceSplit split = null;
         private boolean done = false;
+        private int currentPoint;
         
         public SpaceRecordReader() {
         }
@@ -384,10 +443,12 @@ public class RectangularSpaceLoader extends LoadFunc {
         @Override
         public void initialize(InputSplit split, TaskAttemptContext context) throws IOException, InterruptedException {
             this.split = (SpaceSplit)split;
+            this.currentPoint = 0;
         }
 
         @Override
         public boolean nextKeyValue() throws IOException, InterruptedException {
+            done = (currentPoint == split.getNumPoints());
             return !done;
         }
 
@@ -398,11 +459,12 @@ public class RectangularSpaceLoader extends LoadFunc {
 
         @Override
         public ArrayWritable getCurrentValue() throws IOException, InterruptedException {            
-            DoubleWritable[] coordinates = new DoubleWritable[split.numCoordinates()];
-            for (int i = 0; i < split.numCoordinates(); i++) {
-                coordinates[i] = new DoubleWritable(split.getCoordinate(i));
+            DoubleWritable[] coordinates = new DoubleWritable[split.getDimension()];
+            List<Double> values = split.getPoint(currentPoint);
+            for (int i = 0; i < split.getDimension(); i++) {
+                coordinates[i] = new DoubleWritable(values.get(i));
             }
-            done = true;
+            currentPoint += 1;
             return new ArrayWritable(DoubleWritable.class, coordinates);
         }
 
