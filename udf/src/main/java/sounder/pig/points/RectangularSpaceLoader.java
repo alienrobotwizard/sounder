@@ -82,7 +82,7 @@ public class RectangularSpaceLoader extends LoadFunc {
 
             Tuple result = TupleFactory.getInstance().newTuple(values.length);
             for (int i = 0; i < values.length; i++) {
-                result.set(i, (DoubleWritable)values[i]);
+                result.set(i, ((DoubleWritable)values[i]).get());
             }
             return result;
         } catch (InterruptedException e) { // Just do what PigStorage() does
@@ -229,8 +229,8 @@ public class RectangularSpaceLoader extends LoadFunc {
                 Double dx = (end - start)/(num-1.0);
                 Double x = start;
                 for (int i = 0; i < resultSize; i++) {
-                    x = i*dx;
                     expanded.add(i, x);
+                    x += dx;
                 }
             }
             return expanded;

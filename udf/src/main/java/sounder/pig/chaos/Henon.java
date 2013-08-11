@@ -29,8 +29,8 @@ public class Henon extends DynamicalSystem {
      */
     @Override
     public void computeDerivatives(double t, double[] x, double[] xDot) {
-        xDot[0] = x[1] + 1.0 - a*Math.pow(x[0], 2);
-        xDot[1] = b*x[0];
+        xDot[0] = b*x[1] + 1.0 - a*Math.pow(x[0], 2);
+        xDot[1] = x[0];
     }
 
     /**

@@ -22,7 +22,7 @@ public class Lyapunov {
         evolveSystem(system, 10000);
 
         // Next, pick a test point a distance d0 away
-        double[] testPoint = getTestPoint(system, d0);        
+        double[] testPoint = getTestPoint(system, d0);
         double[] x = system.getState();
                            
         double d1 = 0.0;
@@ -34,6 +34,11 @@ public class Lyapunov {
             testPoint = system.evolveOther(testPoint);
             x = system.evolve();
 
+            // Test for unbounded orbits
+            if (isUnbounded(x)) {
+                return Double.NaN;
+            }
+            
             // Compute distance
             d1 = MathArrays.distance(testPoint, x);
             
@@ -66,5 +71,17 @@ public class Lyapunov {
         }
 
         return testPoint;
+    }
+
+    private static boolean isUnbounded(double[] x) {
+        double absSum = 0.0;
+        for (int i = 0; i < x.length; i++) {
+            absSum += Math.abs(x[i]);
+        }
+        if (absSum >= 10e6) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }
